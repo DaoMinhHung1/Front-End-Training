@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<layout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_layout.xsd">
+    <update handle="3colums"/>
+
+    <referenceContainer name="page.wrapper">
+        <container name="page.header" as="page.header" label="Footer Bottom" htmlTag="header" htmlClass="page.header" after="page.top" >
+            <container name="page.header" as="page.header" htmlTag="div" htmlClass="header content" />
+        </container>
+    </referenceContainer>
+    
+    <referenceContainer name="header-wrapper">
+         <container name="search" label="search"  htmlTag="div" htmlId="search" htmlClass="search.top" before="top.links" >
+            <container name="headerlink" as="headerlink" htmlTag="div" htmlClass="search" />
+         </container>
+    </referenceContainer> 
+
+   
+
+</layout>

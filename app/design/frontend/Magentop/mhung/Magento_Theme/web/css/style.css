@@ -1,0 +1,48 @@
+.containertruoc{
+    display: flex;
+    justify-content: space-between;
+}
+.containersau{
+    display: flex;
+}
+
+.userlink{
+    list-style: none;
+}
+
+@media (min-width: 769px), print {
+    .logo {
+        margin: 0 !important;
+    }
+}
+.my-slick-carousel .item img {
+    width: 100%;
+    height: 100%; 
+}
+.iconsbanner{
+    height: 40px;
+    width: 40px;
+    color: #DA6897;
+}
+
+
+.topcategories{
+    width: 380px;
+    height: 170px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.reviewtopcate{
+    font-size: 15px;
+    margin: 0;
+}
+.footertext{
+    margin: 0;
+}
+.footerlink{
+    text-decoration: none;
+    color: white !important;
+}
+.headerfooter{
+    color: white !important;
+}

@@ -1,0 +1,1 @@
+/var/www/html/vendor/mageplaza/module-multi-flat-rates/view/frontend/web/js/view/shipping-rates-validation.js

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <!-- <referenceContainer name="header.panel.wrapper" remove="true" /> -->
+        <referenceContainer name="top.links" remove="true" />
+        <!-- <referenceContainer name="page.top" remove="true" /> -->
+        <!-- <referenceContainer name="top.search" remove="true" /> -->
+        <!-- Phần Header tổng -->
+        <!-- <move element="" destination="userlink" /> -->
+    </body>
+    <referenceContainer name="header-wrapper">
+            <container name="containertruoc" label="containertruoc" output="1" htmlTag="div" htmlId="containertruoc" htmlClass="containertruoc">
+                <block class="Magento\Theme\Block\Html\Header\Logo" name="logo">
+                    <arguments>
+                        <argument name="logoPathResolver" xsi:type="object">Magento\Theme\ViewModel\Block\Html\Header\LogoPathResolver</argument>
+                        <argument name="logo_size_resolver" xsi:type="object">Magento\Theme\ViewModel\Block\Html\Header\LogoSizeResolver</argument>
+                    </arguments>
+                </block>
+                <block class="Magento\Framework\View\Element\Template" name="top.search" as="topSearch" template="Magento_Theme::html/search.phtml">
+                    <arguments>
+                        <argument name="configProvider" xsi:type="object">Magento\Search\ViewModel\ConfigProvider</argument>
+                        <argument name="additionalSearchFormData" xsi:type="object">Magento\Search\ViewModel\AdditionalSearchFormData</argument>
+                    </arguments>
+                </block>
+                <container name="containersau" label="containersau" output="1" htmlTag="div" htmlId="containersau" htmlClass="containersau">
+                    <container name="userlink" htmlTag="div" htmlClass="userlink" />
+                    <block class="Magento\Checkout\Block\Cart\Sidebar" name="minicart" as="minicart" after="logo" template="Magento_Checkout::cart/minicart.phtml">
+                        <arguments>
+                            <argument name="jsLayout" xsi:type="array">
+                                <item name="types" xsi:type="array" />
+                                <item name="components" xsi:type="array">
+                                    <item name="minicart_content" xsi:type="array">
+                                        <item name="component" xsi:type="string">Magento_Checkout/js/view/minicart</item>
+                                        <item name="config" xsi:type="array">
+                                            <item name="template" xsi:type="string">Magento_Checkout/minicart/content</item>
+                                        </item>
+                                        <item name="children" xsi:type="array">
+                                            <item name="subtotal.container" xsi:type="array">
+                                                <item name="component" xsi:type="string">uiComponent</item>
+                                                <item name="config" xsi:type="array">
+                                                    <item name="displayArea" xsi:type="string">subtotalContainer</item>
+                                                </item>
+                                                <item name="children" xsi:type="array">
+                                                    <item name="subtotal" xsi:type="array">
+                                                        <item name="component" xsi:type="string">uiComponent</item>
+                                                        <item name="config" xsi:type="array">
+                                                            <item name="template" xsi:type="string">Magento_Checkout/minicart/subtotal</item>
+                                                        </item>
+                                                    </item>
+                                                </item>
+                                            </item>
+                                            <item name="extra_info" xsi:type="array">
+                                                <item name="component" xsi:type="string">uiComponent</item>
+                                                <item name="config" xsi:type="array">
+                                                    <item name="displayArea" xsi:type="string">extraInfo</item>
+                                                </item>
+                                            </item>
+                                            <item name="promotion" xsi:type="array">
+                                                <item name="component" xsi:type="string">uiComponent</item>
+                                                <item name="config" xsi:type="array">
+                                                    <item name="displayArea" xsi:type="string">promotion</item>
+                                                </item>
+                                            </item>
+                                        </item>
+                                    </item>
+                                </item>
+                            </argument>
+                        </arguments>
+                        <container name="minicart.addons" label="Mini-cart promotion block"/>
+                    </block>
+                </container>
+            </container>
+        </referenceContainer>
+
+        <!-- Phần logo đầu trang -->
+        <referenceContainer name="header.panel" htmlClass="bannerheader">
+            <block class="Magento\Framework\View\Element\Template" name="custom.block" template="Magento_Theme::html/panelheader.phtml" />
+        </referenceContainer>
+
+         <referenceContainer name="footer" htmlClass="footer">
+            <block class="Magento\Framework\View\Element\Template" name="footer.block" template="Magento_Theme::html/footer.phtml" />
+        </referenceContainer>
+</page>
