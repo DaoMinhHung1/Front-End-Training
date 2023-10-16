@@ -36,6 +36,8 @@
             <block class="Magento\Framework\View\Element\Template" name="refrigerator.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
 
             <block class="Magento\Framework\View\Element\Template" name="new.home" template="Magento_Theme::html/homepages/new.phtml" after="-"  />
+
+            <block class="Magento\Framework\View\Element\Template" name="viewproduct.home" template="Magento_Theme::html/homepages/productslider2.phtml" after="-"  />
         </referenceContainer>
 
         <!-- Phần Footer và các phần còn lại -->

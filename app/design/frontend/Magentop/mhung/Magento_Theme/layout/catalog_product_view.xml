@@ -8,8 +8,7 @@
 
         <move element="product.info.stock.sku" destination="columns.top"/>
         <move element="product.info.review" destination="columns.top" />
-        <move element="product.info.details" destination="product.info.main" />
-
+      
         <move element="product.info.extrahint" destination="columns.top" />
 
 
