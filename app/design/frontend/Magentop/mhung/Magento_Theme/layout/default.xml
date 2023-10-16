@@ -3,6 +3,8 @@
     <body>
         <!-- <referenceContainer name="header.panel.wrapper" remove="true" /> -->
         <referenceContainer name="top.links" remove="true" />
+        <referenceContainer name="footer" remove="true" />
+        <!-- <referenceContainer name="block.newsletter" remove="true" /> -->
         <!-- <referenceContainer name="page.top" remove="true" /> -->
         <!-- <referenceContainer name="top.search" remove="true" /> -->
         <!-- Phần Header tổng -->
@@ -77,7 +79,7 @@
             <block class="Magento\Framework\View\Element\Template" name="custom.block" template="Magento_Theme::html/panelheader.phtml" />
         </referenceContainer>
 
-         <referenceContainer name="footer" htmlClass="footer">
+         <referenceContainer name="footer-container" htmlClass="footer">
             <block class="Magento\Framework\View\Element\Template" name="footer.block" template="Magento_Theme::html/footer.phtml" />
         </referenceContainer>
 </page>
