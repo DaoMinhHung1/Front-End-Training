@@ -3,11 +3,7 @@
 
     <!-- Loại bỏ các phần tử không cần thiết -->
     <body>
-        <referenceBlock name="authorization-link" remove="true" />
-        <referenceBlock name="register-link" remove="true" />
     </body>
-
-  
         <!-- Phần Header -->
         <!-- Phần logo đầu trang -->
 
@@ -23,17 +19,41 @@
 
             <block class="Magento\Framework\View\Element\Template" name="banner2.home" template="Magento_Theme::html/homepages/banner2.phtml" after="-"  />
 
-            <block class="Magento\Framework\View\Element\Template" name="cirtusjuicer.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
+            <block class="Magento\Framework\View\Element\Template" name="cirtusjuicer.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-">
+                 <arguments>
+                    <argument name="block_name" xsi:type="string">Cirtus Juicer</argument>
+                </arguments>
+            </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="blender.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
+            <block class="Magento\Framework\View\Element\Template" name="blender.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
+                <arguments>
+                    <argument name="block_name" xsi:type="string">Blender</argument>
+                </arguments>
+            </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="electricoven.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
+            <block class="Magento\Framework\View\Element\Template" name="electricoven.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
+                <arguments>
+                    <argument name="block_name" xsi:type="string">Electric Oven</argument>
+                </arguments>
+            </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="airpurifier.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
+            <block class="Magento\Framework\View\Element\Template" name="airpurifier.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
+                <arguments>
+                    <argument name="block_name" xsi:type="string">Air Purifier</argument>
+                </arguments>
+            </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="airconditioner.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
+            <block class="Magento\Framework\View\Element\Template" name="airconditioner.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
+                <arguments>
+                    <argument name="block_name" xsi:type="string">Air-Conditioner</argument>
+                </arguments>
+            </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="refrigerator.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
+            <block class="Magento\Framework\View\Element\Template" name="refrigerator.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
+                <arguments>
+                    <argument name="block_name" xsi:type="string">Refrigerator</argument>
+                </arguments>
+            </block>
 
             <block class="Magento\Framework\View\Element\Template" name="new.home" template="Magento_Theme::html/homepages/new.phtml" after="-"  />
 

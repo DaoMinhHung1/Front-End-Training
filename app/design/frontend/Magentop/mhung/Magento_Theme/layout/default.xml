@@ -1,14 +1,12 @@
 <?xml version="1.0"?>
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
-        <!-- <referenceContainer name="header.panel.wrapper" remove="true" /> -->
+        <!-- Phần Header tổng -->
         <referenceContainer name="top.links" remove="true" />
         <referenceContainer name="footer" remove="true" />
-        <!-- <referenceContainer name="block.newsletter" remove="true" /> -->
-        <!-- <referenceContainer name="page.top" remove="true" /> -->
-        <!-- <referenceContainer name="top.search" remove="true" /> -->
+        <move element="authorization-link" destination="userlink" />
+        <move element="register-link" destination="userlink" />
         <!-- Phần Header tổng -->
-        <!-- <move element="" destination="userlink" /> -->
     </body>
     <referenceContainer name="header-wrapper">
             <container name="containertruoc" label="containertruoc" output="1" htmlTag="div" htmlId="containertruoc" htmlClass="containertruoc">
@@ -73,6 +71,8 @@
                 </container>
             </container>
         </referenceContainer>
+
+  
 
         <!-- Phần logo đầu trang -->
         <referenceContainer name="header.panel" htmlClass="bannerheader">

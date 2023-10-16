@@ -46,3 +46,16 @@
 .headerfooter{
     color: white !important;
 }
+.labelsauname{
+    display:flex;
+}
+.sku{
+    display: flex;
+    margin-top: 18px;
+    order: 2;
+}
+.stock{
+    margin-top: 30px;
+    color:#78A622;
+    size: 14px;
+}

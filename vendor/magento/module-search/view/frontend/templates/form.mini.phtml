@@ -33,6 +33,7 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                     <span><?= $escaper->escapeHtml(__('Search')) ?></span>
                 </label>
                 <div class="control">
+                    <div>
                     <input id="search"
                            data-mage-init='{
                             "quickSearch": {
@@ -53,6 +54,8 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                            aria-autocomplete="both"
                            autocomplete="off"
                            aria-expanded="false"/>
+                    </div>
+                   
                     <div id="search_autocomplete" class="search-autocomplete"></div>
                     <?= $block->getChildHtml() ?>
                 </div>

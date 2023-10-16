@@ -3,19 +3,20 @@
     
     <body>
         <referenceBlock name="product.info.extrahint" remove="true" />
+        <referenceBlock name="product.info.options.wrapper" remove="true" />
+        
 
+        <move element="product.info.review" destination="labelsauname" />
+        <move element="product.info.sku" destination="labelsauname" after="product.info.review" />
+        <move element="product.info.type" destination="product.info.main" after="product.price.tier"/>
 
-
-        <move element="product.info.stock.sku" destination="columns.top"/>
-        <move element="product.info.review" destination="columns.top" />
-      
-        <move element="product.info.extrahint" destination="columns.top" />
-
-
-
-        <referenceContainer name="div.sidebar.additional" remove="true">
-            
+        
+        <referenceContainer name="columns.top">
+             <container name="labelsauname"  htmlTag="div" htmlId="labelsauname" htmlClass="labelsauname" />
         </referenceContainer>
+
+      
+        <referenceContainer name="div.sidebar.additional" remove="true" />
 
         <referenceContainer name="content">
             <referenceContainer name="main.content">
