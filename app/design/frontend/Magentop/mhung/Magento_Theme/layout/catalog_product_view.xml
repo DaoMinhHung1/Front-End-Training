@@ -3,20 +3,48 @@
     
     <body>
         <referenceBlock name="product.info.extrahint" remove="true" />
-        <referenceBlock name="product.info.options.wrapper" remove="true" />
+        <!-- <referenceBlock name="product.info.options.wrapper" remove="true" /> -->
         
 
         <move element="product.info.review" destination="labelsauname" />
         <move element="product.info.sku" destination="labelsauname" after="product.info.review" />
-        <move element="product.info.type" destination="product.info.main" after="product.price.tier"/>
+        <move element="product.info.type" destination="infoproduct" after="product.price.tier"/>
 
         
         <referenceContainer name="columns.top">
+             <block class="Magento\Theme\Block\Html\Title" name="page.main.title" template="Magento_Theme::html/title.phtml"/>
              <container name="labelsauname"  htmlTag="div" htmlId="labelsauname" htmlClass="labelsauname" />
         </referenceContainer>
 
-      
-        <referenceContainer name="div.sidebar.additional" remove="true" />
+        <referenceContainer name="product.info.main">
+            <container name="infoproduct"  htmlTag="div" htmlId="infoproduct" htmlClass="infoproduct" >
+                    <block class="Magento\Framework\View\Element\Template" name="topinfor" as="topinfor" template="Magento_Theme::html/productdetail/infordetail.phtml"/>
+                    <container name="product.info.price" label="Product info auxiliary container" htmlTag="div" htmlClass="product-info-price" after="topinfor">
+                        <container name="product.info.stock.sku" label="Product auxiliary info" htmlTag="div" htmlClass="product-info-stock-sku">
+                                <container name="product.info.type" before="-"/>
+                                <block class="Magento\Catalog\Block\Product\View\Description" name="product.info.sku" template="Magento_Catalog::product/view/attribute.phtml" after="product.info.type">
+                                    <arguments>
+                                        <argument name="at_call" xsi:type="string">getSku</argument>
+                                        <argument name="at_code" xsi:type="string">sku</argument>
+                                        <argument name="css_class" xsi:type="string">sku</argument>
+                                        <argument name="at_label" xsi:type="string">default</argument>
+                                        <argument name="add_attribute" xsi:type="string">itemprop="sku"</argument>
+                                    </arguments>
+                                </block>
+                            </container>
+                            <block class="Magento\Catalog\Block\Product\View" name="product.info.review" template="Magento_Catalog::product/view/review.phtml" after="product.info.stock.sku" />
+                            <block class="Magento\Catalog\Pricing\Render" name="product.price.final">
+                                <arguments>
+                                    <argument name="price_render" xsi:type="string">product.price.render.default</argument>
+                                    <argument name="price_type_code" xsi:type="string">final_price</argument>
+                                    <argument name="zone" xsi:type="string">item_view</argument>
+                                </arguments>
+                            </block>
+                     </container>
+        </container>
+        </referenceContainer>
+
+       
 
         <referenceContainer name="content">
             <referenceContainer name="main.content">

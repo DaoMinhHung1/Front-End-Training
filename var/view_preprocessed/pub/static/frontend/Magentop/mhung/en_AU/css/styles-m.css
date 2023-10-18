@@ -14171,6 +14171,10 @@ footer .coppyright .footerp {
   align-items: center;
   margin-top: -8px;
 }
+.thongtinsanpham .namettsanpham {
+  margin: 0 !important;
+  color: #93117B;
+}
 .thongtinsanpham .gianew {
   font-weight: bold;
 }
@@ -14214,12 +14218,98 @@ p {
 #storemenu {
   background-color: #93117B;
 }
-span {
-  color: white;
-}
 .userlink {
   list-style: none;
 }
 .userlink li a {
   color: white;
+}
+.cartheadericon::before {
+  content: '' !important;
+  font-family: none !important;
+  display: inline !important;
+}
+.iconcartproduct {
+  position: relative;
+}
+.productcountcart {
+  position: absolute;
+  z-index: 1;
+  margin-top: -15px !important;
+  margin-left: 12px !important;
+  display: inline-grid !important;
+  align-items: center;
+  border-radius: 50% !important;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.7px;
+}
+.navigation ul li a {
+  color: white !important;
+}
+.navigation ul li ul li a {
+  color: black !important;
+}
+.labelsauname {
+  display: flex;
+}
+.labelsauname .sku {
+  display: flex;
+  order: 2;
+  margin-top: 15px;
+}
+.labelsauname .sku .type {
+  padding-right: 10px;
+  font-weight: normal;
+}
+.labelsauname .theporeviewandsku {
+  padding: 13px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.7px;
+  color: #EDEDED;
+}
+.priceanduser .priceproduct {
+  text-decoration: line-through;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  color: #636363;
+}
+.priceanduser .textuser {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0.7px;
+}
+.priceanduser .textuser .iconuser {
+  color: #93117B;
+  width: 18px;
+  height: 18px;
+}
+.priceproductdetail {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 1.2px;
+  color: red;
+}
+.stock {
+  margin-top: 5%;
+  color: #78A622;
+}
+.textstock {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  /* 142.857% */
+  letter-spacing: 0.7px;
 }

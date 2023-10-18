@@ -11,7 +11,7 @@
        data-bind="attr: {'href': compareProducts().listUrl}, css: {'no-display': !compareProducts().count}"
     >
         <?= $block->escapeHtml(__('Compare Products')) ?>
-        <span class="counter qty" data-bind="text: compareProducts().countCaption"></span>
+        <span class="counter qty productcountcart" data-bind="text: compareProducts().countCaption"></span>
     </a>
 </li>
 <script type="text/x-magento-init">

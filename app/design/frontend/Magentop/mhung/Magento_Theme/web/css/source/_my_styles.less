@@ -208,7 +208,7 @@ html{
 
 footer{
     background-color: #93117B;
-
+    
     .topfooter{
         .headerfooter{
             color: white;   
@@ -250,6 +250,10 @@ footer{
 
 
 .thongtinsanpham{
+    .namettsanpham{
+        margin: 0 !important;
+        color: #93117B;
+    }
     .gianew{
         font-weight: bold;
     }
@@ -299,9 +303,7 @@ p{
 #storemenu {
     background-color: #93117B;
 }
-span{
-    color: white
-}
+
 .userlink {
     list-style: none;
         li{
@@ -309,4 +311,48 @@ span{
                 color: white;
             }
         }
+}
+
+.cartheadericon{
+    &::before{
+        content: '' !important;
+        font-family: none !important;
+        display: inline !important;
+    }
+}
+
+.iconcartproduct{
+    position: relative;
+}
+.productcountcart{
+    position: absolute;
+    z-index: 1;
+    margin-top: -15px !important;
+    margin-left: 12px !important;
+    display: inline-grid !important;
+    align-items: center;
+    border-radius: 50% !important;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.7px;
+}
+
+.navigation{
+    ul{
+        li{
+            a {
+                color: white !important;
+            }
+            ul{
+                li{
+                    a{
+                        color: black !important;
+                    }
+                }
+            }
+        }
+    }
+   
 }
