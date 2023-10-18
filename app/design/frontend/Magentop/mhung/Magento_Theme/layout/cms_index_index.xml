@@ -12,7 +12,7 @@
             <block class="Magento\Framework\View\Element\Template" name="banner.home" template="Magento_Theme::html/homepages/banner.phtml" />
 
             <block class="Magento\Framework\View\Element\Template" name="topcategories.home" template="Magento_Theme::html/homepages/topcategories.phtml" after="banner.phtml"  />
-
+            
             <block class="Magento\Framework\View\Element\Template" name="dealofday.home" template="Magento_Theme::html/homepages/dealofday.phtml" after="topcategories.home"  />
 
             <block class="Magento\Framework\View\Element\Template" name="bestseller.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
