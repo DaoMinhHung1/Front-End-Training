@@ -10,13 +10,13 @@
         <referenceBlock name="top.links">
             <block class="Magento\Customer\Block\Account\Link" name="my-account-link">
                 <arguments>
-                    <argument name="label" xsi:type="string" translate="true">My Account</argument>
+                    <argument name="label" xsi:type="string" translate="true">Login</argument>
                     <argument name="sortOrder" xsi:type="number">110</argument>
                 </arguments>
             </block>
             <block class="Magento\Customer\Block\Account\RegisterLink" name="register-link">
                 <arguments>
-                    <argument name="label" xsi:type="string" translate="true">Create an Account</argument>
+                    <argument name="label" xsi:type="string" translate="true">Register</argument>
                 </arguments>
             </block>
             <block class="Magento\Customer\Block\Account\AuthorizationLink" name="authorization-link"

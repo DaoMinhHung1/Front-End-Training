@@ -34,7 +34,7 @@
             </block>
         </referenceContainer>
         <referenceContainer name="header.container">
-            <container name="header.panel.wrapper" htmlClass="panel wrapper" htmlTag="div" before="-">
+            <container name="header.panel.wrapper" htmlClass="panel wrapper bb" htmlTag="div" before="-">
                 <container name="header.panel" label="Page Header Panel" htmlTag="div" htmlClass="panel header">
                     <block class="Magento\Framework\View\Element\Template" name="skip_to_content" template="Magento_Theme::html/skip.phtml">
                         <arguments>
@@ -69,7 +69,7 @@
                     <argument name="group_name" xsi:type="string">navigation-sections</argument>
                     <argument name="group_css" xsi:type="string">nav-sections</argument>
                 </arguments>
-                <block class="Magento\Framework\View\Element\Template" name="store.menu" group="navigation-sections" template="Magento_Theme::html/container.phtml">
+                <block class="Magento\Framework\View\Element\Template" name="storemenu" group="navigation-sections" template="Magento_Theme::html/container.phtml">
                     <arguments>
                         <argument name="title" translate="true" xsi:type="string">Menu</argument>
                     </arguments>

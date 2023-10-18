@@ -32,9 +32,9 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                     <label class="label" for="search" data-role="minisearch-label">
                         <span><?= $escaper->escapeHtml(__('Search')) ?></span>
                     </label>
-                    <div class="control" style="display: flex">
+                    <div class="control" style="display: flex; width: 580px; background-color: #FFFFFF; padding: 0px; border-radius: 8px; ">
                         <input id="search"
-                                style="width: 588px;"
+                            style="height: 44px; "
                             data-mage-init='{
                                 "quickSearch": {
                                     "formSelector": "#search_mini_form",
@@ -46,7 +46,7 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                             type="text"
                             name="<?= $escaper->escapeHtmlAttr($helper->getQueryParamName()) ?>"
                             value="<?= /* @noEscape */ $helper->getEscapedQueryText() ?>"
-                            placeholder="<?= $escaper->escapeHtmlAttr(__('Search entire store here...')) ?>"
+                            placeholder="<?= $escaper->escapeHtmlAttr(__('I’m shopping for..')) ?>"
                             class="input-text"
                             maxlength="<?= $escaper->escapeHtmlAttr($helper->getMaxQueryLength()) ?>"
                             role="combobox"
