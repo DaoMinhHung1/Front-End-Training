@@ -59,7 +59,14 @@
                 </arguments>
             </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="new.home" template="Magento_Theme::html/homepages/new.phtml" after="-"  />
+            
+            <block class="Magento\Framework\View\Element\Template" name="new.home" template="Magento_Theme::html/homepages/new.phtml" after="-"  >
+                <arguments>
+                    <argument name="new_1" xsi:type="string">Review Product</argument>
+                    
+                    <argument name="new_2" xsi:type="string">Tips &amp; Tricks</argument>
+                </arguments>
+            </block>
 
             <block class="Magento\Framework\View\Element\Template" name="viewproduct.home" template="Magento_Theme::html/homepages/productslider2.phtml" after="-"  />
         </referenceContainer>

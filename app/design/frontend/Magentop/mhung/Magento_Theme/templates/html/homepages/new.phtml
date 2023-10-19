@@ -4,12 +4,19 @@
             <div class="new" style="background-color: #FAD2F2;">
                 <div class="row mt-5">
                     <div class="row" style="padding-top: 50px;">
-                        <div class="col">
+                        <div class="col-6">
                             <h1>News</h1>
-                            <hr>
+                        </div>
+                        <div class="col-6  newtextlink">
+                            <p> <?php echo $block->getData('new_1') ?></p>
+                            <p>Tips & Tricks</p>
+                            <p>Promotions</p>
+                            <p>View Allt</p>
                         </div>
                     </div>
+                    <hr>
                     <div class="row">
+                    <?php if ($block->getData('new_1') == 'Review Product'): ?>
                         <div class="col-3">
                             <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/new.png') ?>" alt="">
                             <h3>How To Make A Fresh Juice Blended For Your Family?</h3>
@@ -31,6 +38,9 @@
                             <button style="background-color: #93117B; color: white;">Organic</button>
                         </div>
                     </div>
+                    <?php elseif ($block->getData('new_2') == 'Tips & Tricks' ): ?>
+                            <h1>Tips & Tricks</h1>
+                    <?php endif; ?>
                  </div>
              </div>
         </div>

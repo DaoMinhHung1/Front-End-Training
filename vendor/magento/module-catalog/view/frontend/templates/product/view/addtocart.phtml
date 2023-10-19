@@ -12,43 +12,46 @@
 <div class="box-tocart">
     <div class="fieldset">
         <?php if ($block->shouldRenderQuantity()) :?>
-        <div class="field qty">
-            <label class="label" for="qty"><span><?= $block->escapeHtml(__('Quantity')) ?></span></label>
-            <div class="control">
-                <input type="number"
-                style="width: 99px;
-                        height: 36px;
-                        flex-shrink: 0;
-                        border-radius: 4px;"
-                       name="qty"
-                       id="qty"
-                       min="0"
-                       value="<?= $block->getProductDefaultQty() * 1 ?>"
-                       title="<?= $block->escapeHtmlAttr(__('Qty')) ?>"
-                       class="input-text qty"
-                       data-validate="<?= $block->escapeHtml(json_encode($block->getQuantityValidators())) ?>"
-                       />
-            </div>
+        <div class="quantityandaddtocart" style="display: flex; align-items: center;">
+                <div class="field qty" style="margin-top: -18px;">
+                    <label class="label" for="qty"><span><?= $block->escapeHtml(__('Quantity')) ?></span></label>
+                    <div class="control">
+                        <input type="number"
+                        style="width: 99px;
+                                height: 36px;
+                                flex-shrink: 0;
+                                border-radius: 4px;"
+                            name="qty"
+                            id="qty"
+                            min="0"
+                            value="<?= $block->getProductDefaultQty() * 1 ?>"
+                            title="<?= $block->escapeHtmlAttr(__('Qty')) ?>"
+                            class="input-text qty"
+                            data-validate="<?= $block->escapeHtml(json_encode($block->getQuantityValidators())) ?>"
+                            />
+                    </div>
+                </div>
+                <?php endif; ?>
+                <div class="actions">
+                    <button type="submit"
+                    style="display: flex;
+                            width: 200px;
+                            padding: 16px 12px;
+                            justify-content: center;
+                            align-items: center;
+                            gap: 10px; 
+                            border-radius: 4px;
+                            background-color: #93117B;
+                            font-family: Quicksand;"
+                            title="<?= $block->escapeHtmlAttr($buttonTitle) ?>"
+                            class="action primary tocart"
+                            id="product-addtocart-button" disabled>
+                        <span><?= $block->escapeHtml($buttonTitle) ?></span>
+                    </button>
+                    <?= $block->getChildHtml('', true) ?>
+                </div>
         </div>
-        <?php endif; ?>
-        <div class="actions">
-            <button type="submit"
-            style="display: flex;
-                    width: 200px;
-                    padding: 16px 12px;
-                    justify-content: center;
-                    align-items: center;
-                    gap: 10px; 
-                    border-radius: 4px;
-                    background-color: #93117B;
-                    font-family: Quicksand;"
-                    title="<?= $block->escapeHtmlAttr($buttonTitle) ?>"
-                    class="action primary tocart"
-                    id="product-addtocart-button" disabled>
-                <span><?= $block->escapeHtml($buttonTitle) ?></span>
-            </button>
-            <?= $block->getChildHtml('', true) ?>
-        </div>
+        
     </div>
 </div>
 <?php endif; ?>
