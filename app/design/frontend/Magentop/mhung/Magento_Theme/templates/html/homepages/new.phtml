@@ -3,8 +3,8 @@
         <div class="col">
             <div class="new" style="background-color: #FAD2F2;">
                 <div class="row mt-5">
-                    <div class="row" style="padding-top: 50px;">
-                        <div class="col-6">
+                    <div class="row rownewtop" style="padding-top: 50px;">
+                        <div class="col-6 titlenew">
                             <h1>News</h1>
                         </div>
                         <div class="col-6  newtextlink">
@@ -15,32 +15,28 @@
                         </div>
                     </div>
                     <hr>
-                    <div class="row">
-                    <?php if ($block->getData('new_1') == 'Review Product'): ?>
-                        <div class="col-3">
+                    <div class="row rownewunder">
+                        <div class="col-3 itemnew">
                             <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/new.png') ?>" alt="">
                             <h3>How To Make A Fresh Juice Blended For Your Family?</h3>
                             <button style="background-color: #93117B; color: white;">Organic</button>
                         </div>
-                        <div class="col-3">
+                        <div class="col-3 itemnew">
                             <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/new1.png') ?>" alt="">
                             <h3>How To Make A Fresh Juice Blended For Your Family?</h3>
                             <button style="background-color: #93117B; color: white;">Organic</button>
                         </div>
-                        <div class="col-3">
+                        <div class="col-3 itemnew">
                             <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/new2.png') ?>" alt="">
                             <h3>How To Make A Fresh Juice Blended For Your Family?</h3>
                             <button style="background-color: #93117B; color: white;">Organic</button>
                         </div>
-                        <div class="col-3">
+                        <div class="col-3 itemnew">
                             <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/new3.png') ?>" alt="">
                             <h3>How To Make A Fresh Juice Blended For Your Family?</h3>
                             <button style="background-color: #93117B; color: white;">Organic</button>
                         </div>
                     </div>
-                    <?php elseif ($block->getData('new_2') == 'Tips & Tricks' ): ?>
-                            <h1>Tips & Tricks</h1>
-                    <?php endif; ?>
                  </div>
              </div>
         </div>

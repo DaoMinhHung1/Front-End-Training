@@ -1,1 +1,0 @@
-/var/www/html/app/design/frontend/Magentop/mhung/Magento_Theme/web/js/style.js
