@@ -17,7 +17,7 @@ $helper = $configProvider->getSearchHelperData();
 $allowedSuggestion = $configProvider->isSuggestionsAllowed();
 $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUrl()) : '';
 ?>
-<div class="block block-search abc" style="margin-right: 500px;">
+<div class="block block-search abc">
     <div class="block block-title"><strong><?= $escaper->escapeHtml(__('Search')) ?></strong></div>
     <div class="block block-content">
     <form class="form minisearch" id="search_mini_form"
@@ -32,7 +32,7 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                 <label class="label" for="search" data-role="minisearch-label">
                     <span><?= $escaper->escapeHtml(__('Search')) ?></span>
                 </label>
-                <div class="control" style="display: flex; width:588px;">
+                <div class="control">
                     <input id="search"
                            data-mage-init='{
                             "quickSearch": {
@@ -53,7 +53,6 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                            aria-autocomplete="both"
                            autocomplete="off"
                            aria-expanded="false"
-                           style="border-top-left-radius: 8px; border-bottom-left-radius: 8px; height:40px;"
                            />
                     <div id="search_autocomplete" class="search-autocomplete"></div>
                     <button type="submit"
