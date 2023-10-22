@@ -9,7 +9,7 @@ require(['jquery', 'slick'], function ($) {
             infinite: true,
             responsive: [
                 {
-                    breakpoint: 768,
+                    breakpoint: 992,
                     settings: {
                         slidesToShow: 1,
                         slidesToScroll: 1,
@@ -67,15 +67,15 @@ require(['jquery'], function ($) {
         if ($(window).width() <= 768) {
             $('#quickLinksHeader').click(function () {
                 $('#quickLinksList').slideToggle();
+                $(this).toggleClass('active');
             });
             $('#quickLinksHeader2').click(function () {
                 $('#quickLinksList2').slideToggle();
+                $(this).toggleClass('active');
             });
             $('#quickLinksHeader3').click(function () {
                 $('#quickLinksList3').slideToggle();
-            });
-            $('#quickLinksHeader4').click(function () {
-                $('#quickLinksList4').slideToggle();
+                $(this).toggleClass('active');
             });
         }
     });
