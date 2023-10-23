@@ -56,4 +56,7 @@
          <referenceContainer name="footer-container" htmlClass="footer">
             <block class="Magento\Framework\View\Element\Template" name="footer.block" template="Magento_Theme::html/footer.phtml" />
         </referenceContainer>
+        
 </page>
+
+
