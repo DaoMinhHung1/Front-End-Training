@@ -9,7 +9,13 @@
 
         <!-- Thêm block banner.home vào trang chủ -->
         <referenceContainer name="content">
-            <block class="Magento\Framework\View\Element\Template" name="banner.home" template="Magento_Theme::html/homepages/banner.phtml" />
+            
+            <block class="Magento\Framework\View\Element\Template" name="banner.home" template="Magento_Theme::html/homepages/banner.phtml">
+
+            </block>
+
+
+
 
             <block class="Magento\Framework\View\Element\Template" name="topcategories.home" template="Magento_Theme::html/homepages/topcategories.phtml" after="banner.phtml"  />
             

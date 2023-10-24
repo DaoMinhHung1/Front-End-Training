@@ -20,7 +20,7 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
 <div class="block block-search">
     <div class="block block-title"><strong><?= $escaper->escapeHtml(__('Search')) ?></strong></div>
     <div class="block block-content">
-        <form class="form minisearch" id="search_mini_form"
+    <form class="form minisearch" id="search_mini_form"
               action="<?= $escaper->escapeUrl($helper->getResultUrl()) ?>" method="get">
             <?php  if (!empty($queryParams = $additionalSearchFormData->getFormData())): ?>
                 <?php foreach ($queryParams as $param): ?>
@@ -32,8 +32,7 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                 <label class="label" for="search" data-role="minisearch-label">
                     <span><?= $escaper->escapeHtml(__('Search')) ?></span>
                 </label>
-                <div class="control">
-                    <div>
+                <div class="control input-form-search">
                     <input id="search"
                            data-mage-init='{
                             "quickSearch": {
@@ -46,28 +45,26 @@ $quickSearchUrl = $allowedSuggestion ? $escaper->escapeUrl($helper->getSuggestUr
                            type="text"
                            name="<?= $escaper->escapeHtmlAttr($helper->getQueryParamName()) ?>"
                            value="<?= /* @noEscape */ $helper->getEscapedQueryText() ?>"
-                           placeholder="<?= $escaper->escapeHtmlAttr(__('Search entire store here...')) ?>"
+                           placeholder="<?= $escaper->escapeHtmlAttr(__('I’m shopping for.....')) ?>"
                            class="input-text"
                            maxlength="<?= $escaper->escapeHtmlAttr($helper->getMaxQueryLength()) ?>"
                            role="combobox"
                            aria-haspopup="false"
                            aria-autocomplete="both"
                            autocomplete="off"
-                           aria-expanded="false"/>
-                    </div>
-                   
+                           aria-expanded="false"
+                           />
                     <div id="search_autocomplete" class="search-autocomplete"></div>
+                    <button type="submit"
+                        title="<?= $escaper->escapeHtml(__('Search')) ?>"
+                        class="search"
+                        aria-label="Search"
+                        id="button-search"
+                    >
+                    <span><?= $escaper->escapeHtml(__('Search')) ?></span>
+                    </button>
                     <?= $block->getChildHtml() ?>
                 </div>
-            </div>
-            <div class="actions">
-                <button type="submit"
-                        title="<?= $escaper->escapeHtml(__('Search')) ?>"
-                        class="action search"
-                        aria-label="Search"
-                >
-                    <span><?= $escaper->escapeHtml(__('Search')) ?></span>
-                </button>
             </div>
         </form>
     </div>

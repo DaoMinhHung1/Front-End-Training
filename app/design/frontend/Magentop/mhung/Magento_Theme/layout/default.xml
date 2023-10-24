@@ -43,7 +43,9 @@
         </referenceContainer>
 
 
-  
+        <referenceContainer name="content">
+            <block class="Magento\Framework\View\Element\Template" name="modulejs"  template="Magento_Theme::html/modulejs/modulejs.phtml" />
+        </referenceContainer>
 
         <!-- Phần logo đầu trang -->
         <referenceContainer name="header.panel" htmlClass="bannerheader">

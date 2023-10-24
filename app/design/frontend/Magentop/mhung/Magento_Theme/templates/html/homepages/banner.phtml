@@ -1,24 +1,13 @@
 <div class="container containerbanner">
     <!-- banner -->
         <div class="row d-flex ">
-            <div class="col-8 bannerchinhheader">
-                <div class="my-slick-carouselbanner">
-                    <div class="item">
-                        <img class="anhbannerchinh" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/Artboard21.png'); ?>" alt="imgpanelheader" />
-                    </div>
-                    <div class="item">
-                        <img class="anhbannerchinh" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/Artboard21.png'); ?>" alt="imgpanelheader" />
-                    </div>
-                    <div class="item">
-                        <img class="anhbannerchinh" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/Artboard21.png'); ?>" alt="imgpanelheader" />
-                    </div>
-                </div>
+            <div class="col-8 bannerchinhheader" data-bind="scope: 'banners'">
+               <!-- ko template: getTemplate() --><!-- /ko -->
             </div>
             <div class="col-4 bannerphuheader">
-                <img class="anhbannerphu" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/Artboard31.png'); ?>" alt="imgpanelheader" />
-                <img class="anhbannerphu" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/banner-facema_sk1.png'); ?>" alt="imgpanelheader" />
+                    <img class="anhbannerphu" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/Artboard31.png'); ?>" alt="imgpanelheader" />
+                    <img class="anhbannerphu" src="<?php echo $block->getViewFileUrl('Magento_Theme::images/banner-facema_sk1.png'); ?>" alt="imgpanelheader" />
             </div>
-        </div>
         <div class="row mt-5 d-flex">
             <div class="col-3 itemsaubanner">
                 <div class="d-flex ">
@@ -74,7 +63,22 @@
 </div>
 
 
-<script type="text/javascript">
-      require(['jquery', 'banner'], function ($) {
-    });
+<script type="text/x-magento-init">
+{
+    
+    ".bannerchinhheader": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "banners": {
+                    "component": "Magento_Theme/js/my-components",
+                    "template": "Magento_Theme/banner"
+                }
+            }
+        }
+    }
+}
 </script>
+
+
+
+

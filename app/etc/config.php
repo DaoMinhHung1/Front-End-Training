@@ -346,6 +346,8 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Magento_WishlistSampleData' => 1,
+        'Hiddentechies_Base' => 1,
+        'Hiddentechies_Next' => 1,
         'Mageplaza_Core' => 1,
         'Mageplaza_Multiflatrates' => 1,
         'Mageplaza_Smtp' => 1,
