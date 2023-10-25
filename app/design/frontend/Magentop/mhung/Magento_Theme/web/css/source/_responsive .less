@@ -1,8 +1,10 @@
 @media screen and (max-width:575px) {
     .language{
         display: flex;
-        position: static;
         justify-content: end;
+        position: absolute;
+        top: 20px;
+        right: 0;
 
         select{
             padding: 0;
@@ -12,6 +14,9 @@
             border: none;
             color: white;
         }
+    }
+    .header{
+        margin-top: 10px;
     }
     .containertruoc {
         position: relative;
@@ -507,10 +512,12 @@
 @media screen and (min-width: 750px) and (max-width: 969px) {
     .language{
         display: flex;
-        position: static;
-        justify-content: end;
-        margin-top: -20px;
-    
+        position: absolute;
+        position: absolute;
+        right: 0;
+        top: 50px;
+        margin-right: 40px !important;
+        color: white;
         select{
             padding: 0;
             width: 70px;
@@ -524,6 +531,7 @@
         display: flex;
         align-items: center;
         margin: 0 28px 18px 28px;
+        margin-top: 10px;
         .logo {
             margin: 0;
             display: flex;

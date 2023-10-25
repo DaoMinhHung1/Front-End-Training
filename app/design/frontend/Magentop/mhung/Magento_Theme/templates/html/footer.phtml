@@ -3,43 +3,43 @@
         <div class="row mb-5 topfooter">
             <div class="col-3 itemfooter">
                 <div id="quickLinksHeader" class="dropdownfooter">
-                    <h4 class="headerfooter dropdown-content" >QUICK LINKs</h4>
+                    <h4 class="headerfooter dropdown-content" ><?=__('QUICK LINKs')?></h4>
                     <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                         <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
                 </div>
                     <div class="mt-5" id="quickLinksList">
                         <p class="footertext">
-                                <a class="footerlink" href="">Terms & Conditions</a>
+                                <a class="footerlink" href=""><?= __("Terms & Conditions") ?></a>
                         </p> 
                         <p class="footertext">
-                                <a class="footerlink" href="">Privacy Policies</a>
+                                <a class="footerlink" href=""><?=__("Privacy Policies")?></a>
                         </p>  
                         <p class="footertext">
-                                <a class="footerlink" href="">Delivery - Return - Warranty</a>
+                                <a class="footerlink" href=""><?=__("Delivery - Return - Warranty")?></a>
                         </p>  
                         <p class="footertext">
-                                <a class="footerlink" href="">Payment Methods</a>
+                                <a class="footerlink" href=""><?=__('Payment Methods')?></a>
                         </p>  
                         <p class="footertext">
-                                <a class="footerlink" href="">Loyalty Program</a>
+                                <a class="footerlink" href=""><?=__('Loyalty Program')?></a>
                         </p>  
                     </div>
             </div>
 
             <div class="col-3 itemfooter">
                     <div id="quickLinksHeader2" class="dropdownfooter">
-                        <h4 class="headerfooter dropdown-content">COMPANY</h4>
+                        <h4 class="headerfooter dropdown-content"><?=__('COMPANY')?></h4>
                         <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                             <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
                     </div>
                     <div class="mt-5" id="quickLinksList2">
                         <p class="footertext">
-                            <a class="footerlink" href="">About us</a>
+                            <a class="footerlink" href=""><?=__('About us')?></a>
                         </p> 
                         <p class="footertext">
-                            <a class="footerlink" href="">FAQs</a>
+                            <a class="footerlink" href=""><?=__('FAQs')?></a>
                         </p> 
 
                         <div class="mt-2">
@@ -50,15 +50,14 @@
             </div>
             <div class="col-3 itemfooter">
                  <div id="quickLinksHeader3" class="dropdownfooter">
-                    <h4 class="headerfooter">Follow us</h4>
+                    <h4 class="headerfooter"><?=__('Follow us')?></h4>
                     <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                             <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
-
                 </div>
                 
                 <div class="mt-5" id="quickLinksList3">
-                    <h4 class="headerfooter">Our Mobile Apps</h4>
+                    <h4 class="headerfooter"><?=__('Our Mobile Apps')?></h4>
                     <div>
                         <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/appstore.png'); ?>" alt="">
                     </div>
@@ -70,24 +69,28 @@
             </div>
             <div class="col-3 itemfooter itemfooteripad">
                 <div  class="dropdownfooter">
-                    <h4 class="headerfooter">CÔNG TY TNHH ĐIỆN TỬ SHARP VIỆT NAM</h4>
+                    <h4 class="headerfooter"><?=__('CÔNG TY TNHH ĐIỆN TỬ SHARP VIỆT NAM')?></h4>
                 </div>
                 <div class="mt-5 ssss">
                     <p class="footerp">
-                        Địa chỉ: T5-B03.07 & T5-B03.09, Lầu 3 Masteri Thảo Điền
+
+                    <?=__(' Địa chỉ:')?>
+                        T5-B03.07 & T5-B03.09, Lầu 3 Masteri Thảo Điền
                         159 Xa Lộ Hà Nội, Phường Thảo Điền, T.P Thủ Đức, T.P Hồ Chí Minh, Việt Nam
+                       
                     </p>
                     <p class="footerp">
-                        Email: cskh@cocorolife.vn
+                    <?=__('   Email:')?>
+                        cskh@cocorolife.vn
                     </p>
                     <p class="footerp">
-                        MST: 0308159258 Do Sở kế hoạch Đầu tư TP.HCM cấp ngày 13/3/2009
+                    <?=__('   MST: ')?>
+                    0308159258 Do Sở kế hoạch Đầu tư TP.HCM cấp ngày 13/3/2009
                     </p>
                     <p>
                         <img src="<?php echo $block->getViewFileUrl('Magento_Theme::images/thongbao.png'); ?>" alt="">
                     </p>
-                </div>
-                   
+                </div>  
             </div>
         </div>
         <hr>

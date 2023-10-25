@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+    <language xmlns:xsi="..." xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+        <code>vi_VN</code>
+            <vendor>FisheyeAcademy</vendor>
+            <package>vi_VN</package>
+        <sort_order>10</sort_order>
+    </language>
