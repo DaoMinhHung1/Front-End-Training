@@ -23,7 +23,7 @@
 
             <block class="Magento\Framework\View\Element\Template" name="bestseller.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
                 <arguments>
-                    <argument name="block_name" xsi:type="string">Best Seller</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Best Seller</argument>
                 </arguments>
             </block>
 
@@ -31,46 +31,37 @@
 
             <block class="Magento\Framework\View\Element\Template" name="cirtusjuicer.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-">
                  <arguments>
-                    <argument name="block_name" xsi:type="string">Cirtus Juicer</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Cirtus Juicer</argument>
                 </arguments>
             </block>
 
             <block class="Magento\Framework\View\Element\Template" name="blender.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
                 <arguments>
-                    <argument name="block_name" xsi:type="string">Blender</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Blender</argument>
                 </arguments>
             </block>
 
             <block class="Magento\Framework\View\Element\Template" name="electricoven.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
                 <arguments>
-                    <argument name="block_name" xsi:type="string">Electric Oven</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Electric Oven</argument>
                 </arguments>
             </block>
 
             <block class="Magento\Framework\View\Element\Template" name="airpurifier.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
                 <arguments>
-                    <argument name="block_name" xsi:type="string">Air Purifier</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Air Purifier</argument>
                 </arguments>
             </block>
 
             <block class="Magento\Framework\View\Element\Template" name="airconditioner.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
                 <arguments>
-                    <argument name="block_name" xsi:type="string">Air-Conditioner</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Air-Conditioner</argument>
                 </arguments>
             </block>
 
             <block class="Magento\Framework\View\Element\Template" name="refrigerator.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  >
                 <arguments>
-                    <argument name="block_name" xsi:type="string">Refrigerator</argument>
-                </arguments>
-            </block>
-
-            
-            <block class="Magento\Framework\View\Element\Template" name="new.home" template="Magento_Theme::html/homepages/new.phtml" after="-"  >
-                <arguments>
-                    <argument name="new_1" xsi:type="string">Review Product</argument>
-                    
-                    <argument name="new_2" xsi:type="string">Tips &amp; Tricks</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Refrigerator</argument>
                 </arguments>
             </block>
 

@@ -1,3 +1,5 @@
+"Quick Links","Quick Links"
+"Static Block","Static Block"
 "We can't find products matching the selection.","We can't find products matching the selection."
 New,New
 Sale,Sale
@@ -61,7 +63,7 @@ Promotions,Promotions
 "How To Make A Fresh Juice Blended For Your Family?","How To Make A Fresh Juice Blended For Your Family?"
 Organic,Organic
 "Fresh Eggs Caroline In Australia Villages","Fresh Eggs Caroline In Australia Villages"
-"Discover Fresh Organic Farms In Switzeland Villages","Discover Fresh Organic Farms In Switzeland Villages"
+"Discover Fresh Organic Farms In Switzerland Villages","Discover Fresh Organic Farms In Switzerland Villages"
 "B&O Play - Best Headphone For You","B&O Play - Best Headphone For You"
 "Your Recently Viewed Products","Your Recently Viewed Products"
 "Top Categories Of The Month","Top Categories Of The Month"
@@ -141,6 +143,38 @@ Footer,Footer
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business."
 "Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id"
 "Update to your %store_name shipment","Update to your %store_name shipment"
+Hiddentechies,Hiddentechies
+"Next Settings","Next Settings"
+"Product Information","Product Information"
+"Navigation Settings","Navigation Settings"
+"Add Home Link","Add Home Link"
+"Promotion Settings","Promotion Settings"
+"Enable Promotion Bar","Enable Promotion Bar"
+"Top Promotion Text","Top Promotion Text"
+"Category Page","Category Page"
+"Show Image Border","Show Image Border"
+"Show New Label","Show New Label"
+"Show Sale Label","Show Sale Label"
+"Product Page","Product Page"
+"Newsletter Settings","Newsletter Settings"
+"Enable Newsletter","Enable Newsletter"
+"Newsletter Title","Newsletter Title"
+"Footer Columns","Footer Columns"
+"Enable Footer Columns","Enable Footer Columns"
+"Column 1","Column 1"
+"Static Block Identifier","Static Block Identifier"
+"Footer 2nd Column","Footer 2nd Column"
+"Footer 3rd Column","Footer 3rd Column"
+"Footer Contact Block","Footer Contact Block"
+Address,Address
+Phone,Phone
+"Footer Copyright","Footer Copyright"
+"Enable Footer Bottom","Enable Footer Bottom"
+"Copyright Text","Copyright Text"
+"Copyright Right Block","Copyright Right Block"
+"Add Custom CSS","Add Custom CSS"
+"Custom CSS 1","Custom CSS 1"
+".classname { <br/> &nbsp;&nbsp;&nbsp;width: 100%; <br/>}",".classname { <br/> &nbsp;&nbsp;&nbsp;width: 100%; <br/>}"
 Overview,Overview
 "Account Dashboard","Account Dashboard"
 "Address Book","Address Book"

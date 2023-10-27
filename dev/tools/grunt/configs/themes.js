@@ -50,5 +50,17 @@ module.exports = {
             'css/styles'
         ],
         dsl: 'less'
-    }
+    },
+    
+    mhung: {
+        area: 'frontend',
+        name: 'Magentop/mhung',
+        locale: 'en_US',
+        files: [
+            'css/styles-m',
+            'css/styles-l',
+        ],
+        dsl: 'less'
+    },
+  
 };

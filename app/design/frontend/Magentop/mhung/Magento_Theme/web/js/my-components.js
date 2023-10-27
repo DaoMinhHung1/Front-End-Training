@@ -12,9 +12,9 @@ define([
         },
         
         viewModel: ko.observableArray([
-            'https://hungdao.cmmage.app/static/version1698134031/frontend/Magentop/mhung/en_AU/Magento_Theme/images/Artboard21.png',
-            'https://hungdao.cmmage.app/static/version1698134031/frontend/Magentop/mhung/en_AU/Magento_Theme/images/Artboard21.png',
-            'https://hungdao.cmmage.app/static/version1698134031/frontend/Magentop/mhung/en_AU/Magento_Theme/images/Artboard21.png',
+            'https://hungdao.cmmage.app/static/version1698134031/frontend/Magentop/mhung/en_AU/images/Artboard21.png',
+            'https://hungdao.cmmage.app/static/version1698134031/frontend/Magentop/mhung/en_AU/images/Artboard21.png',
+            'https://hungdao.cmmage.app/static/version1698134031/frontend/Magentop/mhung/en_AU/images/Artboard21.png',
         ]),
         initSlickSlider: function () {
             setTimeout(function () {
