@@ -12,7 +12,7 @@
 
     <referenceContainer name="header-wrapper">
             <container name="containertruoc" label="containertruoc" output="1" htmlTag="div" htmlId="containertruoc" htmlClass="containertruoc d-flex" after="language">
-                <block class="Magento\Theme\Block\Html\Header\Logo" name="logo">
+                <block class="Magento\Theme\Block\Html\Header\Logo" name="logo" cacheable="true">
                     <arguments>
                         <argument name="logoPathResolver" xsi:type="object">Magento\Theme\ViewModel\Block\Html\Header\LogoPathResolver</argument>
                         <argument name="logo_size_resolver" xsi:type="object">Magento\Theme\ViewModel\Block\Html\Header\LogoSizeResolver</argument>
@@ -50,7 +50,7 @@
       
          
          <referenceContainer name="footer-container" htmlClass="footer">
-            <block class="Magento\Framework\View\Element\Template" name="footer.block" template="Magento_Theme::html/footer.phtml" />
+            <block class="Magento\Framework\View\Element\Template" name="footer.block" template="Magento_Theme::html/footer.phtml" cacheable="true" />
         </referenceContainer>
-        
+        app/i18n/Magentop/vi_VN/ registration.php
 </page>

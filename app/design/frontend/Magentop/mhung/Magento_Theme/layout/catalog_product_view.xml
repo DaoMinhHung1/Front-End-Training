@@ -60,12 +60,16 @@
                             </container>
                     </container>
             </referenceContainer>
+        </referenceContainer>
 
-            <container name="productrelate"  htmlTag="div" htmlId="div" htmlClass="productrelate" after="-">
+
+         <referenceContainer name="product.info.details.wrapper">
+            <container name="productrelate"  htmlTag="div" htmlId="div" htmlClass="productrelate" after="product.info.details.wrapper.main">
                 <block class="Magento\Framework\View\Element\Template" name="bestseller.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-"  />
                 <block class="Magento\Framework\View\Element\Template" name="viewproduct.home" template="Magento_Theme::html/homepages/productslider2.phtml" after="-"  />
             </container>
         </referenceContainer>
+
 
     </body>
 

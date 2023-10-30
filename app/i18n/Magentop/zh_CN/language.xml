@@ -1,6 +1,6 @@
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>zh_Hans_CN</code>
-        <vendor>Magentop</vendor>
-        <package>zh_CN</package>
-    <sort_order>1</sort_order>
+          <vendor>Magentop</vendor>
+          <package>zh_CN</package>
+    <sort_order>2</sort_order>
 </language>

@@ -31,7 +31,7 @@
 
             <block class="Magento\Framework\View\Element\Template" name="cirtusjuicer.home" template="Magento_Theme::html/homepages/productslider.phtml" after="-">
                  <arguments>
-                    <argument name="block_name" xsi:type="string" translate="true">Cirtus Juicer</argument>
+                    <argument name="block_name" xsi:type="string" translate="true">Citrus Juicer</argument>
                 </arguments>
             </block>
 
@@ -65,7 +65,9 @@
                 </arguments>
             </block>
 
-            <block class="Magento\Framework\View\Element\Template" name="viewproduct.home" template="Magento_Theme::html/homepages/productslider2.phtml" after="-"  />
+             <block class="Magento\Framework\View\Element\Template" name="new.home" template="Magento_Theme::html/homepages/new.phtml" after="-"  />
+
+            <block class="Magento\Framework\View\Element\Template" name="viewproduct.home" template="Magento_Theme::html/homepages/productslider2.phtml" after="-" />
         </referenceContainer>
 
         <!-- Phần Footer và các phần còn lại -->
