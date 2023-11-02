@@ -1,6 +1,6 @@
-require(['jquery', 'slick'], function ($) {
+require(["jquery", "slick"], function ($) {
     $(document).ready(function () {
-        $('.my-slick-carouseldealofday').slick({
+        $(".my-slick-carouseldealofday").slick({
             slidesToShow: 5,
             slidesToScroll: 1,
             autoplay: true,
@@ -11,18 +11,18 @@ require(['jquery', 'slick'], function ($) {
                 {
                     breakpoint: 576,
                     settings: {
-                      slidesToShow: 1,
-                      slidesToScroll: 1,
-                      arrows: false,
-                    }
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        arrows: false,
+                    },
                 },
                 {
-                  breakpoint: 768,
-                  settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    arrows: false,
-                  }
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 1,
+                        arrows: false,
+                    },
                 },
                 {
                     breakpoint: 992,
@@ -30,30 +30,36 @@ require(['jquery', 'slick'], function ($) {
                         slidesToShow: 3,
                         slidesToScroll: 1,
                         arrows: false,
-                    }
+                    },
                 },
-              ],
-            
+            ],
         });
     });
 });
 
-
-require(['jquery'], function ($) {
+require(["jquery"], function ($) {
     $(document).ready(function () {
         if ($(window).width() <= 768) {
-            $('#quickLinksHeader').click(function () {
-                $('#quickLinksList').slideToggle();
-                $(this).toggleClass('active');
+            $("#quickLinksHeader").click(function () {
+                $("#quickLinksList").slideToggle();
+                $(this).toggleClass("active");
             });
-            $('#quickLinksHeader2').click(function () {
-                $('#quickLinksList2').slideToggle();
-                $(this).toggleClass('active');
+            $("#quickLinksHeader2").click(function () {
+                $("#quickLinksList2").slideToggle();
+                $(this).toggleClass("active");
             });
-            $('#quickLinksHeader3').click(function () {
-                $('#quickLinksList3').slideToggle();
-                $(this).toggleClass('active');
+            $("#quickLinksHeader3").click(function () {
+                $("#quickLinksList3").slideToggle();
+                $(this).toggleClass("active");
             });
         }
+    });
+});
+
+require(["jquery"], function ($) {
+    $(document).ready(function () {
+        $("#contactUsButton").on("click", function () {
+            $("#contactus").addClass("active");
+        });
     });
 });

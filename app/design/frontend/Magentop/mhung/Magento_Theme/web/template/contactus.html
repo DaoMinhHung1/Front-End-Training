@@ -1,0 +1,41 @@
+<form id="myForm" action="#" method="POST" data-bind="event: { click: submitForm }">
+    <div class="headermodal">
+        <h4>Contact US</h4>
+        <p id="closeButton" data-bind="event:{click: submitCloseModal}">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+            </svg>
+        </p>
+    </div>
+    <br>
+
+    <div class="field name">
+        <label for="name" class="label"><span data-bind="i18n: 'Name'"></span></label>
+        <div class="control">
+            <input data-bind="attr: {placeholder: $t('Nhập Name của bạn vào')}" type="text" name="name" id="name" class="input-text" data-validate="{required:true, 'validate-alphanum':true}" required="true">
+        </div>
+    </div>
+
+    <div class="field email">
+        <label for="email" class="label"><span data-bind="i18n: 'Email'"></span></label>
+        <div class="control">
+            <input data-bind="attr: {placeholder: $t('Nhập email của bạn vào')}" type="email" name="email" id="email" class="input-text" data-validate="{required:true, 'validate-email':true}" required="true">
+        </div>
+    </div>    
+
+    <div class="field message">
+        <label for="message" class="label"><span data-bind="i18n: 'Message'"></span></label>
+        <div class="control">
+            <textarea data-bind="attr: {placeholder: $t('Nhập message của bạn vào')}" name="message" id="message" title="Message" class="input-text" data-validate="{required:true}" required="true"></textarea>
+        </div>
+    </div>
+
+    <div class="actions-toolbar">
+        <div class="primary">
+            <button type="submit" class="action submit primary">
+                <span data-bind="i18n: 'Submit'"></span>
+            </button>
+        </div>
+    </div>
+
+</form>

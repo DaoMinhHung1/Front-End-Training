@@ -49,11 +49,15 @@
                     
             </div>
             <div class="col-3 itemfooter">
-                 <div id="quickLinksHeader3" class="dropdownfooter">
+                 <div id="quickLinksHeader3" class="dropdownfooter"  data-bind=" scope: 'contactus'">
                     <h4 class="headerfooter"><?=__('Follow us')?></h4>
                     <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
                             <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
+                </div>
+                <button id="contactUsButton">Contact us</button>
+                <div id="contactus" class="contactus" data-bind="scope: 'contactuss'">
+                        <!-- ko template: getTemplate() --><!-- /ko -->
                 </div>
                 
                 <div class="mt-5" id="quickLinksList3">
@@ -92,20 +96,27 @@
                     </p>
                 </div>  
             </div>
+            <div class="col-3">
+           
+        </div>
         </div>
         <hr>
-        <div class="row coppyright">
-            <div class="col-6 footerdesgin">
-                <p class="footerlink"><?=__ ('© 2022 Cocoro Life. All Rights Reserved'); ?> </p>
-            </div>
-            <div class="col-6 coppyrightend footerdesgin">
-                <p class="footerp"><?=__ ('Our Payment Provider') ?></p>
-                <span style="display: inline-block;">
-                    <p>
-                        <img src="<?php echo $block->getViewFileUrl('images/payoo.png'); ?>" alt="">
-                    </p>
-                </span>
-            </div>
-        </div>
+       
     </div>
 </footer>
+
+
+<script type="text/x-magento-init">
+{
+    ".contactus": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "contactuss": {
+                    "component": "Magento_Theme/js/contactus",
+                    "template":  "Magento_Theme/contactus"
+                }
+            }
+        }
+    }
+}
+</script>

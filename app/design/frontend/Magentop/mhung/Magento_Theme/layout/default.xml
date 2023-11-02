@@ -51,6 +51,10 @@
          
          <referenceContainer name="footer-container" htmlClass="footer">
             <block class="Magento\Framework\View\Element\Template" name="footer.block" template="Magento_Theme::html/footer.phtml" cacheable="true" />
+
+            <container name="coppyright" htmlTag="div" htmlId="coppyright" htmlClass="container coppyright" after="-">
+                <block class="Magento\Theme\Block\Html\Footer" name="copyright" template="Magento_Theme::html/copyright.phtml" />
+                <block class="Magento\Framework\View\Element\Template" name="report.bugs" template="Magento_Theme::html/homepages/footer/footerbugs.phtml" />
+            </container>
         </referenceContainer>
-        app/i18n/Magentop/vi_VN/ registration.php
 </page>

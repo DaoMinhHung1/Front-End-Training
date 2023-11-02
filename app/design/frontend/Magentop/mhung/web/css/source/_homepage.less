@@ -108,8 +108,11 @@
 .notificart{
    right: 90px !important;
 }
-
+.switcher-dropdown{
+    z-index: 4;
+}
 .menucategories{
+    z-index: auto !important;
     background-color: #93117B !important;
 }
 .anhbannerphu{
@@ -183,10 +186,11 @@
     }
 }
 
-
+.imgpanelheaderdof{
+    max-width: 98% !important;
+}
 .pricedealofday{
     display: flex;
- 
 
     span{
         margin-left: 5px;
@@ -200,6 +204,7 @@
         color: white;
     }
 }
+
 .userlink {
     list-style: none;
     width: 69px;
@@ -282,5 +287,86 @@
 
     p{
         padding: 10px;
+    }
+}
+.coppyright{
+    display: flex;
+    justify-content: space-between;
+
+    small{
+        margin: 0 !important;
+    }
+}
+
+
+
+.contactus{
+    display: flex;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    z-index: 102;
+    transition: all 0.3s;
+    opacity: 0;
+    visibility: hidden;
+
+    &.active{
+        opacity: 1;
+        visibility: inherit;
+    }
+    #myForm {
+        width: 40%;
+        background: whitesmoke;
+        border-radius: 10px;
+
+        .headermodal{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-left: 20px;
+            padding-right: 20px;
+            background-color: orange;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+
+                h4{
+                    font-size: 30px;
+                    color: white;
+                }
+        }
+        .name{
+            padding: 0 20px 0 20px;
+
+            input{
+                height: 35px;
+                border-radius: 8px;
+            }
+        }
+        .email{
+            padding: 0 20px 0 20px;
+
+            input{
+                height: 35px;
+                border-radius: 8px;
+            }
+        }
+        .message{
+            padding: 0 20px 0 20px;
+
+            textarea{
+                border-radius: 8px;
+            }
+        }
+        .actions-toolbar{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 10px;
+        }
     }
 }

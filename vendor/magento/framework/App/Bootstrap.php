@@ -263,7 +263,7 @@ class Bootstrap
                 $this->assertInstalled();
                 $response = $application->launch();
                 $response->sendResponse();
-                \Magento\Framework\Profiler::stop('magento');
+                \Magento\Framework\Profiler::stop('magento');     
             } catch (\Exception $e) {
                 \Magento\Framework\Profiler::stop('magento');
                 $this->objectManager->get(LoggerInterface::class)->error($e->getMessage());
