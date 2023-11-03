@@ -1,0 +1,1704 @@
+<!doctype html>
+<html lang="vi">
+    <head >
+        <script>
+    var LOCALE = 'vi\u002DVN';
+    var BASE_URL = 'https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fvi\u002F';
+    var require = {
+        'baseUrl': 'https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fstatic\u002Fversion1698912435\u002Ffrontend\u002FMagentop\u002Fmhung\u002Fvi_VN'
+    };</script>        <meta charset="utf-8"/>
+<meta name="title" content="300 Next - Free Theme For Magento 2 | HiddenTechies 300"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="format-detection" content="telephone=no"/>
+<title>300 Next - Free Theme For Magento 2 | HiddenTechies 300</title>
+<link  rel="stylesheet" type="text/css"  media="all" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/mage/calendar.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/css/styles-m.css" />
+<link  rel="stylesheet" type="text/css"  media="screen and (min-width: 768px)" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/css/styles-l.css" />
+<link  rel="stylesheet" type="text/css"  media="print" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/css/print.css" />
+<script  type="text/javascript"  src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/requirejs/require.js"></script>
+<script  type="text/javascript"  src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/Magento_Translation/js/i18n-config.js"></script>
+<script  type="text/javascript"  src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/mage/requirejs/mixins.js"></script>
+<script  type="text/javascript"  src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/requirejs-config.js"></script>
+<link  rel="icon" type="image/x-icon" href="https://hungdao.cmmage.app/media/favicon/stores/2/z4550425177548_e79951a2b943e1210bbcf09eea1dbbe1.jpg" />
+<link  rel="shortcut icon" type="image/x-icon" href="https://hungdao.cmmage.app/media/favicon/stores/2/z4550425177548_e79951a2b943e1210bbcf09eea1dbbe1.jpg" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://hungdao.cmmage.app/media/styles.css" />            <script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_PageCache/js/form-key-provider": {
+                    "isPaginationCacheEnabled":
+                        0                }
+            }
+        }
+    </script>
+    </head>
+    <body data-container="body"
+          data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/loader-2.gif"}}'
+        id="html-body" class="cms-home cms-index-index page-layout-1column">
+        
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_PageBuilder/js/widget-initializer": {
+                "config": {"[data-content-type=\"slider\"][data-appearance=\"default\"]":{"Magento_PageBuilder\/js\/content-type\/slider\/appearance\/default\/widget":false},"[data-content-type=\"map\"]":{"Magento_PageBuilder\/js\/content-type\/map\/appearance\/default\/widget":false},"[data-content-type=\"row\"]":{"Magento_PageBuilder\/js\/content-type\/row\/appearance\/default\/widget":false},"[data-content-type=\"tabs\"]":{"Magento_PageBuilder\/js\/content-type\/tabs\/appearance\/default\/widget":false},"[data-content-type=\"slide\"]":{"Magento_PageBuilder\/js\/content-type\/slide\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-slide-button","showOverlay":"hover","dataRole":"slide"}},"[data-content-type=\"banner\"]":{"Magento_PageBuilder\/js\/content-type\/banner\/appearance\/default\/widget":{"buttonSelector":".pagebuilder-banner-button","showOverlay":"hover","dataRole":"banner"}},"[data-content-type=\"buttons\"]":{"Magento_PageBuilder\/js\/content-type\/buttons\/appearance\/inline\/widget":false},"[data-content-type=\"products\"][data-appearance=\"carousel\"]":{"Magento_PageBuilder\/js\/content-type\/products\/appearance\/carousel\/widget":false}},
+                "breakpoints": {"desktop":{"label":"Desktop","stage":true,"default":true,"class":"desktop-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-desktop.svg","conditions":{"min-width":"1024px"},"options":{"products":{"default":{"slidesToShow":"5"}}}},"tablet":{"conditions":{"max-width":"1024px","min-width":"768px"},"options":{"products":{"default":{"slidesToShow":"4"},"continuous":{"slidesToShow":"3"}}}},"mobile":{"label":"Mobile","stage":true,"class":"mobile-switcher","icon":"Magento_PageBuilder::css\/images\/switcher\/switcher-mobile.svg","media":"only screen and (max-width: 768px)","conditions":{"max-width":"768px","min-width":"640px"},"options":{"products":{"default":{"slidesToShow":"3"}}}},"mobile-small":{"conditions":{"max-width":"640px"},"options":{"products":{"default":{"slidesToShow":"2"},"continuous":{"slidesToShow":"1"}}}}}            }
+        }
+    }
+</script>
+
+<div class="cookie-status-message" id="cookie-status">
+    <span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;The&#x20;store&#x20;will&#x20;not&#x20;work&#x20;correctly&#x20;when&#x20;cookies&#x20;are&#x20;disabled.&quot;,&quot;translated&quot;&#x3A;&quot;The&#x20;store&#x20;will&#x20;not&#x20;work&#x20;correctly&#x20;when&#x20;cookies&#x20;are&#x20;disabled.&quot;,&quot;original&quot;&#x3A;&quot;The&#x20;store&#x20;will&#x20;not&#x20;work&#x20;correctly&#x20;when&#x20;cookies&#x20;are&#x20;disabled.&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">The store will not work correctly when cookies are disabled.</span></div>
+<script type="text&#x2F;javascript">document.querySelector("#cookie-status").style.display = "none";</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "cookieStatus": {}
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".hungdao.cmmage.app",
+                "secure": true,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong data-translate="[{&quot;shown&quot;:&quot;JavaScript d\u01b0\u1eddng nh\u01b0 b\u1ecb v\u00f4 hi\u1ec7u trong tr\u00ecnh duy\u1ec7t c\u1ee7a b\u1ea1n.&quot;,&quot;translated&quot;:&quot;JavaScript d\u01b0\u1eddng nh\u01b0 b\u1ecb v\u00f4 hi\u1ec7u trong tr\u00ecnh duy\u1ec7t c\u1ee7a b\u1ea1n.&quot;,&quot;original&quot;:&quot;JavaScript seems to be disabled in your browser.&quot;,&quot;location&quot;:&quot;Strong emphasized text&quot;}]">JavaScript dường như bị vô hiệu trong trình duyệt của bạn.</strong>
+                    <span data-translate="[{&quot;shown&quot;:&quot;\u0110\u1ec3 c\u00f3 tr\u1ea3i nghi\u1ec7m t\u1ed1t nh\u1ea5t tr\u00ean trang web c\u1ee7a ch\u00fang t\u00f4i, \u0111\u1ea3m b\u1ea3o b\u1eadt Javascript trong tr\u00ecnh duy\u1ec7t c\u1ee7a b\u1ea1n.&quot;,&quot;translated&quot;:&quot;\u0110\u1ec3 c\u00f3 tr\u1ea3i nghi\u1ec7m t\u1ed1t nh\u1ea5t tr\u00ean trang web c\u1ee7a ch\u00fang t\u00f4i, \u0111\u1ea3m b\u1ea3o b\u1eadt Javascript trong tr\u00ecnh duy\u1ec7t c\u1ee7a b\u1ea1n.&quot;,&quot;original&quot;:&quot;For the best experience on our site, be sure to turn on Javascript in your browser.&quot;,&quot;location&quot;:&quot;Span element&quot;}]">
+                        Để có trải nghiệm tốt nhất trên trang web của chúng tôi, đảm bảo bật Javascript trong trình duyệt của bạn.                    </span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = true;
+</script><script>    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce5Adapter'
+            }
+        }
+    });</script><script>
+    require.config({
+        paths: {
+            googleMaps: 'https\u003A\u002F\u002Fmaps.googleapis.com\u002Fmaps\u002Fapi\u002Fjs\u003Fv\u003D3\u0026key\u003D'
+        },
+        config: {
+            'Magento_PageBuilder/js/utils/map': {
+                style: ''
+            },
+            'Magento_PageBuilder/js/content-type/map/preview': {
+                apiKey: '',
+                apiKeyErrorMessage: '\u007B\u007B\u007BYou\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fvi\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.\u007D\u007D\u007B\u007BYou\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027\u00251\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.\u007D\u007D\u007B\u007BYou\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027\u00251\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.\u007D\u007D\u007B\u007BthemeMagentop\u002Fmhung\u007D\u007D\u007D'
+            },
+            'Magento_PageBuilder/js/form/element/map': {
+                apiKey: '',
+                apiKeyErrorMessage: '\u007B\u007B\u007BYou\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fvi\u002Fadminhtml\u002Fsystem_config\u002Fedit\u002Fsection\u002Fcms\u002F\u0023cms_pagebuilder\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.\u007D\u007D\u007B\u007BYou\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027\u00251\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.\u007D\u007D\u007B\u007BYou\u0020must\u0020provide\u0020a\u0020valid\u0020\u003Ca\u0020href\u003D\u0027\u00251\u0027\u0020target\u003D\u0027_blank\u0027\u003EGoogle\u0020Maps\u0020API\u0020key\u003C\u002Fa\u003E\u0020to\u0020use\u0020a\u0020map.\u007D\u007D\u007B\u007BthemeMagentop\u002Fmhung\u007D\u007D\u007D'
+            },
+        }
+    });
+</script>
+
+<script>
+    require.config({
+        shim: {
+            'Magento_PageBuilder/js/utils/map': {
+                deps: ['googleMaps']
+            }
+        }
+    });
+</script>
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper bb"><div class="bannerheader"><a data-translate="[{&quot;shown&quot;:&quot;Chuy\u1ec3n \u0111\u1ebfn n\u1ed9i dung&quot;,&quot;translated&quot;:&quot;Chuy\u1ec3n \u0111\u1ebfn n\u1ed9i dung&quot;,&quot;original&quot;:&quot;Skip to Content&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="action skip contentarea"
+   href="#contentarea">
+    <span>
+        Chuyển đến nội dung    </span>
+</a>
+        <div class="switcher language switcher-language"  data-ui-id="language-switcher" id="switcher-language">
+        <strong data-translate="[{&quot;shown&quot;:&quot;Ng\u00f4n ng\u1eef&quot;,&quot;translated&quot;:&quot;Ng\u00f4n ng\u1eef&quot;,&quot;original&quot;:&quot;Language&quot;,&quot;location&quot;:&quot;Strong emphasized text&quot;}]" class="label switcher-label"><span>Ngôn ngữ</span></strong>
+        <div class="actions dropdown options switcher-options">
+            <div class="action toggle switcher-trigger"
+                 id="switcher-language-trigger"
+                 data-mage-init='{"dropdown":{}}'
+                 data-toggle="dropdown"
+                 data-trigger-keypress-button="true">
+                <strong class="view-vi">
+                    <span>Vietnamese</span>
+                </strong>
+            </div>
+            <ul class="dropdown switcher-dropdown"
+                data-target="dropdown">
+                                                            <li class="view-en switcher-option">
+                            <a href="https://hungdao.cmmage.app/vi/stores/store/redirect/___store/en/___from_store/vi/uenc/aHR0cHM6Ly9odW5nZGFvLmNtbWFnZS5hcHAvZW4v/">
+                                English                            </a>
+                        </li>
+                                                                                                                    <li class="view-zh switcher-option">
+                            <a href="https://hungdao.cmmage.app/vi/stores/store/redirect/___store/zh/___from_store/vi/uenc/aHR0cHM6Ly9odW5nZGFvLmNtbWFnZS5hcHAvemgv/">
+                                China                            </a>
+                        </li>
+                                                                                <li class="view-fr switcher-option">
+                            <a href="https://hungdao.cmmage.app/vi/stores/store/redirect/___store/fr/___from_store/vi/uenc/aHR0cHM6Ly9odW5nZGFvLmNtbWFnZS5hcHAvZnIv/">
+                                France                            </a>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+<div class="">
+    <div class="row">
+        <div class="col-1" style="background-color: #040F25;">
+
+        </div>
+        <div class="col-10 d-flex">
+            <image style="width: 100%; margin: 0;" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/banner1.png"" alt="imgpanelheader"/>
+        </div>
+        <div class="col-1" style="background-color: #072758;">
+        </div>
+    </div>
+</div>
+
+
+</div></div><div class="header content"><div id="containertruoc" class="containertruoc d-flex">    <span data-translate="[{&quot;shown&quot;:&quot;Toggle Nav&quot;,&quot;translated&quot;:&quot;Toggle Nav&quot;,&quot;original&quot;:&quot;Toggle Nav&quot;,&quot;location&quot;:&quot;Span element&quot;}]" data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a
+    class="logo"
+    href="https://hungdao.cmmage.app/vi/"
+    title=""
+    aria-label="store logo">
+    <img src="https://hungdao.cmmage.app/media/logo/stores/2/Logo.png"
+         title=""
+         alt=""
+            width="300"            height="300"    />
+</a>
+<div class="block block-search abc">
+    <div class="block block-title"><strong data-translate="[{&quot;shown&quot;:&quot;T\u00ecm ki\u1ebfm&quot;,&quot;translated&quot;:&quot;T\u00ecm ki\u1ebfm&quot;,&quot;original&quot;:&quot;Search&quot;,&quot;location&quot;:&quot;Strong emphasized text&quot;}]">Tìm kiếm</strong></div>
+    <div class="block block-content">
+    <form class="form minisearch" id="search_mini_form"
+              action="https://hungdao.cmmage.app/vi/catalogsearch/result/" method="get">
+                        <div class="field search">
+                <label data-translate="[{&quot;shown&quot;:&quot;T\u00ecm ki\u1ebfm&quot;,&quot;translated&quot;:&quot;T\u00ecm ki\u1ebfm&quot;,&quot;original&quot;:&quot;Search&quot;,&quot;location&quot;:&quot;Label for an input element.&quot;}]" class="label" for="search" data-role="minisearch-label">
+                    <span>Tìm kiếm</span>
+                </label>
+                <div class="control">
+                    <input data-translate="[{&quot;shown&quot;:&quot;T&#xEC;m&#x20;ki&#x1EBF;m&#x20;to&#xE0;n&#x20;b&#x1ED9;&#x20;c&#x1EED;a&#x20;h&#xE0;ng&#x20;&#x1EDF;&#x20;&#x0111;&#xE2;y...&quot;,&quot;translated&quot;:&quot;T&#xEC;m&#x20;ki&#x1EBF;m&#x20;to&#xE0;n&#x20;b&#x1ED9;&#x20;c&#x1EED;a&#x20;h&#xE0;ng&#x20;&#x1EDF;&#x20;&#x0111;&#xE2;y...&quot;,&quot;original&quot;:&quot;Search&#x20;entire&#x20;store&#x20;here...&quot;,&quot;location&quot;:&quot;Form element&quot;}]" id="search"
+                           data-mage-init='{
+                            "quickSearch": {
+                                "formSelector": "#search_mini_form",
+                                "url": "https://hungdao.cmmage.app/vi/search/ajax/suggest/",
+                                "destinationSelector": "#search_autocomplete",
+                                "minSearchLength": "3"
+                            }
+                        }'
+                           type="text"
+                           name="q"
+                           value=""
+                           placeholder="T&#xEC;m&#x20;ki&#x1EBF;m&#x20;to&#xE0;n&#x20;b&#x1ED9;&#x20;c&#x1EED;a&#x20;h&#xE0;ng&#x20;&#x1EDF;&#x20;&#x0111;&#xE2;y..."
+                           
+                           class="input-text"
+                           maxlength="128"
+                           role="combobox"
+                           aria-haspopup="false"
+                           aria-autocomplete="both"
+                           autocomplete="off"
+                           aria-expanded="false"
+                           />
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                    <button data-translate="[{&quot;shown&quot;:&quot;T\u00ecm ki\u1ebfm&quot;,&quot;translated&quot;:&quot;T\u00ecm ki\u1ebfm&quot;,&quot;original&quot;:&quot;Search&quot;,&quot;location&quot;:&quot;Push button&quot;}]" type="submit"
+                        title="Tìm kiếm"
+                        class="search"
+                        aria-label="Search"
+                        style="border-top-right-radius: 8px; border-bottom-right-radius: 8px; "
+                    >
+                    <span>Tìm kiếm</span>
+                    </button>
+                    <!-- 
+<div class="nested">
+    <a data-translate="[{&quot;shown&quot;:&quot;T\u00ecm ki\u1ebfm n\u00e2ng cao&quot;,&quot;translated&quot;:&quot;T\u00ecm ki\u1ebfm n\u00e2ng cao&quot;,&quot;original&quot;:&quot;Advanced Search&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="action advanced" href="https://hungdao.cmmage.app/vi/catalogsearch/advanced/" data-action="advanced-search">
+        Tìm kiếm nâng cao    </a>
+</div> -->
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div id="containersau" class="containersau d-flex"><div data-block="minicart" class="minicart-wrapper">
+    
+
+    <div class="d-flex iconcarts" style="align-items: center; gap: 40px;">
+        
+            
+        <a class="action showcart cartheadericon"  href=""
+        data-bind="scope: 'minicart_content'">
+            
+            <svg class="iconheader iconcartproduct" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                 <path d="M32 31.0938L30.4062 8.75C30.3854 8.54167 30.2917 8.36458 30.125 8.21875C29.9792 8.07292 29.8021 8 29.5938 8H25.9375L19.7812 1.84375C19.6146 1.67708 19.4167 1.59375 19.1875 1.59375C18.9792 1.59375 18.7917 1.67708 18.625 1.84375L17.8438 2.625C17.6771 2.79167 17.5938 2.98958 17.5938 3.21875C17.5938 3.42708 17.6771 3.61458 17.8438 3.78125C17.9896 3.92708 18.1667 4 18.375 4C18.6042 4 18.8021 3.92708 18.9688 3.78125L19.1875 3.53125L23.6562 8H21.125L14.1562 1.03125C14.0104 0.885417 13.8229 0.8125 13.5938 0.8125C13.3854 0.8125 13.1979 0.885417 13.0312 1.03125L6.0625 8H2.40625C2.19792 8 2.01042 8.07292 1.84375 8.21875C1.69792 8.36458 1.61458 8.54167 1.59375 8.75L0 31.1562C0 31.2604 0.0104167 31.3646 0.03125 31.4688C0.0729167 31.5729 0.135417 31.6667 0.21875 31.75C0.28125 31.8333 0.364583 31.8958 0.46875 31.9375C0.572917 31.9792 0.6875 32 0.8125 32H31.1875C31.4167 32 31.6042 31.9271 31.75 31.7812C31.9167 31.6146 32 31.4167 32 31.1875C32 31.1875 32 31.1771 32 31.1562C32 31.1354 32 31.1146 32 31.0938ZM13.5938 2.71875L18.875 8H8.34375L13.5938 2.71875ZM1.65625 30.4062L3.15625 9.59375H6.40625H28.8438L30.3438 30.4062H1.65625ZM16 22.4062C15.125 22.4062 14.2812 22.1771 13.4688 21.7188C12.6771 21.2396 11.9792 20.5729 11.375 19.7188C10.8125 18.8854 10.375 17.9479 10.0625 16.9062C9.75 15.8438 9.59375 14.7396 9.59375 13.5938C9.59375 13.3854 9.66667 13.2083 9.8125 13.0625C9.97917 12.8958 10.1771 12.8125 10.4062 12.8125C10.6146 12.8125 10.7917 12.8958 10.9375 13.0625C11.1042 13.2083 11.1875 13.3854 11.1875 13.5938C11.1875 14.5938 11.3125 15.5417 11.5625 16.4375C11.8333 17.3125 12.2083 18.1042 12.6875 18.8125C13.1458 19.4583 13.6562 19.9583 14.2188 20.3125C14.8021 20.6458 15.3958 20.8125 16 20.8125C16.6042 20.8125 17.1875 20.6458 17.75 20.3125C18.3333 19.9583 18.8542 19.4583 19.3125 18.8125C19.7917 18.1042 20.1562 17.3125 20.4062 16.4375C20.6771 15.5417 20.8125 14.5938 20.8125 13.5938C20.8125 13.3854 20.8854 13.2083 21.0312 13.0625C21.1979 12.8958 21.3854 12.8125 21.5938 12.8125C21.8229 12.8125 22.0104 12.8958 22.1562 13.0625C22.3229 13.2083 22.4062 13.3854 22.4062 13.5938C22.4062 14.7396 22.25 15.8438 21.9375 16.9062C21.625 17.9479 21.1875 18.8854 20.625 19.7188C20.0208 20.5729 19.3125 21.2396 18.5 21.7188C17.7083 22.1771 16.875 22.4062 16 22.4062Z" fill="white"/>
+            </svg>
+
+            <span class="counter qty empty productcountcart"
+                data-bind="css: { empty: !!getCartParam('summary_count') == false && !isLoading() },
+                blockLoader: isLoading">
+                <span class="counter-number">
+                    <!-- ko if: getCartParam('summary_count') -->
+                    <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                    <!-- /ko -->
+                </span>
+                <span class="counter-label">
+                <!-- ko if: getCartParam('summary_count') -->
+                    <!-- ko text: getCartParam('summary_count').toLocaleString(window.LOCALE) --><!-- /ko -->
+                    < !-- ko i18n: 'items' --><!-- /ko -->
+                <!-- /ko -->
+                </span>
+            </span>
+        </a>
+    </div>
+
+        
+                    <script>            require(['jquery'], function ($) {
+                $('a.action.showcart').on('click', function() {
+                    $(document.body).trigger('processStart');
+                });
+            });</script>        <script>window.checkout = </script>    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": []        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fstatic\u002Fversion1698912435\u002Ffrontend\u002FMagentop\u002Fmhung\u002Fvi_VN\u002Fimages\u002Floader\u002D1.gif"
+        }
+    }
+    </script>
+</div><div class="wish-list">
+    <svg class="iconheader mt-2 designicon" style="margin-right: 10px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
+       <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+   </svg>
+</div>
+<div id="usercontainer" class="usercontainer"><div class="user">
+    <svg class="iconheader designicon" style="margin-left: 10px; width: 38px !important;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+        <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z"/>
+    </svg>
+</div>
+<div id="userlink" class="userlink"><li><a data-translate="[{&quot;shown&quot;:&quot;\u0110\u0103ng nh\u00e2\u0323p&quot;,&quot;translated&quot;:&quot;\u0110\u0103ng nh\u00e2\u0323p&quot;,&quot;original&quot;:&quot;Login&quot;,&quot;location&quot;:&quot;Link label&quot;}]" href="https://hungdao.cmmage.app/vi/customer/account/" id="idZLkCyUZQ" >Đăng nhập</a></li><li><a data-translate="[{&quot;shown&quot;:&quot;\u0110\u0103ng k\u00fd&quot;,&quot;translated&quot;:&quot;\u0110\u0103ng k\u00fd&quot;,&quot;original&quot;:&quot;Register&quot;,&quot;location&quot;:&quot;Link label&quot;}]" href="https://hungdao.cmmage.app/vi/customer/account/create/" id="idVyYzioWQ" >Đăng ký</a></li></div></div></div></div></div></header>    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items"
+             data-mage-init='{"tabs":{"openedState":"active"}}'>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a data-translate="[{&quot;shown&quot;:&quot;Menu&quot;,&quot;translated&quot;:&quot;Menu&quot;,&quot;original&quot;:&quot;Menu&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="nav-sections-item-switch"
+                       data-toggle="switch" href="#storemenu">
+                        Menu                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="storemenu"
+                     data-role="content">
+                    
+<nav class="navigation  menucategories" data-action="navigation" >
+    <ul  data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="https://hungdao.cmmage.app/vi/what-is-new.html"  class="level-top" ><span>What&#039;s New</span></a></li><li  class="level0 nav-2 category-item level-top parent"><a href="https://hungdao.cmmage.app/vi/women.html"  class="level-top" ><span>Women</span></a><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first parent"><a href="https://hungdao.cmmage.app/vi/women/tops-women.html" ><span>Tops</span></a><ul class="level1 submenu"><li  class="level2 nav-2-1-1 category-item first"><a href="https://hungdao.cmmage.app/vi/women/tops-women/jackets-women.html" ><span>Jackets</span></a></li><li  class="level2 nav-2-1-2 category-item"><a href="https://hungdao.cmmage.app/vi/women/tops-women/hoodies-and-sweatshirts-women.html" ><span>Hoodies &amp; Sweatshirts</span></a></li><li  class="level2 nav-2-1-3 category-item"><a href="https://hungdao.cmmage.app/vi/women/tops-women/tees-women.html" ><span>Tees</span></a></li><li  class="level2 nav-2-1-4 category-item last"><a href="https://hungdao.cmmage.app/vi/women/tops-women/tanks-women.html" ><span>Bras &amp; Tanks</span></a></li></ul></li><li  class="level1 nav-2-2 category-item last parent"><a href="https://hungdao.cmmage.app/vi/women/bottoms-women.html" ><span>Bottoms</span></a><ul class="level1 submenu"><li  class="level2 nav-2-2-1 category-item first"><a href="https://hungdao.cmmage.app/vi/women/bottoms-women/pants-women.html" ><span>Pants</span></a></li><li  class="level2 nav-2-2-2 category-item last"><a href="https://hungdao.cmmage.app/vi/women/bottoms-women/shorts-women.html" ><span>Shorts</span></a></li></ul></li></ul></li><li  class="level0 nav-3 category-item level-top parent"><a href="https://hungdao.cmmage.app/vi/men.html"  class="level-top" ><span>Men</span></a><ul class="level0 submenu"><li  class="level1 nav-3-1 category-item first parent"><a href="https://hungdao.cmmage.app/vi/men/tops-men.html" ><span>Tops</span></a><ul class="level1 submenu"><li  class="level2 nav-3-1-1 category-item first"><a href="https://hungdao.cmmage.app/vi/men/tops-men/jackets-men.html" ><span>Jackets</span></a></li><li  class="level2 nav-3-1-2 category-item"><a href="https://hungdao.cmmage.app/vi/men/tops-men/hoodies-and-sweatshirts-men.html" ><span>Hoodies &amp; Sweatshirts</span></a></li><li  class="level2 nav-3-1-3 category-item"><a href="https://hungdao.cmmage.app/vi/men/tops-men/tees-men.html" ><span>Tees</span></a></li><li  class="level2 nav-3-1-4 category-item last"><a href="https://hungdao.cmmage.app/vi/men/tops-men/tanks-men.html" ><span>Tanks</span></a></li></ul></li><li  class="level1 nav-3-2 category-item parent"><a href="https://hungdao.cmmage.app/vi/men/bottoms-men.html" ><span>Bottoms</span></a><ul class="level1 submenu"><li  class="level2 nav-3-2-1 category-item first"><a href="https://hungdao.cmmage.app/vi/men/bottoms-men/pants-men.html" ><span>Pants</span></a></li><li  class="level2 nav-3-2-2 category-item last"><a href="https://hungdao.cmmage.app/vi/men/bottoms-men/shorts-men.html" ><span>Shorts</span></a></li></ul></li><li  class="level1 nav-3-3 category-item last"><a href="https://hungdao.cmmage.app/vi/men/coffeemug.html" ><span>CoffeeMug</span></a></li></ul></li><li  class="level0 nav-4 category-item level-top parent"><a href="https://hungdao.cmmage.app/vi/gear.html"  class="level-top" ><span>Gear</span></a><ul class="level0 submenu"><li  class="level1 nav-4-1 category-item first"><a href="https://hungdao.cmmage.app/vi/gear/bags.html" ><span>Bags</span></a></li><li  class="level1 nav-4-2 category-item"><a href="https://hungdao.cmmage.app/vi/gear/fitness-equipment.html" ><span>Fitness Equipment</span></a></li><li  class="level1 nav-4-3 category-item last"><a href="https://hungdao.cmmage.app/vi/gear/watches.html" ><span>Watches</span></a></li></ul></li><li  class="level0 nav-5 category-item level-top parent"><a href="https://hungdao.cmmage.app/vi/training.html"  class="level-top" ><span>Training</span></a><ul class="level0 submenu"><li  class="level1 nav-5-1 category-item first last"><a href="https://hungdao.cmmage.app/vi/training/training-video.html" ><span>Video Download</span></a></li></ul></li><li  class="level0 nav-6 category-item level-top"><a href="https://hungdao.cmmage.app/vi/sale.html"  class="level-top" ><span>Sale</span></a></li><li  class="level0 nav-7 category-item level-top parent"><a href="https://hungdao.cmmage.app/vi/lap.html"  class="level-top" ><span>Laptop</span></a><ul class="level0 submenu"><li  class="level1 nav-7-1 category-item first"><a href="https://hungdao.cmmage.app/vi/lap/simple-product.html" ><span>Simple product</span></a></li><li  class="level1 nav-7-2 category-item"><a href="https://hungdao.cmmage.app/vi/lap/configurable-product.html" ><span>Configurable product</span></a></li><li  class="level1 nav-7-3 category-item"><a href="https://hungdao.cmmage.app/vi/lap/grouped-product.html" ><span>Grouped product</span></a></li><li  class="level1 nav-7-4 category-item"><a href="https://hungdao.cmmage.app/vi/lap/virtual-product.html" ><span>Virtual product</span></a></li><li  class="level1 nav-7-5 category-item"><a href="https://hungdao.cmmage.app/vi/lap/bundle-product.html" ><span>Bundle product</span></a></li><li  class="level1 nav-7-6 category-item last"><a href="https://hungdao.cmmage.app/vi/lap/downloadable-product.html" ><span>Downloadable product</span></a></li></ul></li><li  class="level0 nav-8 category-item last level-top parent"><a href="https://hungdao.cmmage.app/vi/pc-gaming.html"  class="level-top" ><span>PC Gaming</span></a><ul class="level0 submenu"><li  class="level1 nav-8-1 category-item first"><a href="https://hungdao.cmmage.app/vi/pc-gaming/pc-gaming-simple.html" ><span>PC Gaming Simple</span></a></li><li  class="level1 nav-8-2 category-item"><a href="https://hungdao.cmmage.app/vi/pc-gaming/pc-gaming-configurable.html" ><span>PC Gaming Configurable</span></a></li><li  class="level1 nav-8-3 category-item"><a href="https://hungdao.cmmage.app/vi/pc-gaming/pc-gaming-bundle.html" ><span>PC Gaming Bundle</span></a></li><li  class="level1 nav-8-4 category-item"><a href="https://hungdao.cmmage.app/vi/pc-gaming/pc-gaming-grouped.html" ><span>PC Gaming Grouped</span></a></li><li  class="level1 nav-8-5 category-item last"><a href="https://hungdao.cmmage.app/vi/pc-gaming/pc-gaming-downloadable.html" ><span>PC Gaming Downloadable</span></a></li></ul></li>            </ul>
+</nav>
+                </div>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a data-translate="[{&quot;shown&quot;:&quot;T\u00e0i kho\u1ea3n&quot;,&quot;translated&quot;:&quot;T\u00e0i kho\u1ea3n&quot;,&quot;original&quot;:&quot;Account&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.links">
+                        Tài khoản                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.links"
+                     data-role="content">
+                    <!-- Account links -->                </div>
+                                            <div class="section-item-title nav-sections-item-title"
+                     data-role="collapsible">
+                    <a data-translate="[{&quot;shown&quot;:&quot;Ca\u0300i \u0111\u0103\u0323t&quot;,&quot;translated&quot;:&quot;Ca\u0300i \u0111\u0103\u0323t&quot;,&quot;original&quot;:&quot;Settings&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="nav-sections-item-switch"
+                       data-toggle="switch" href="#store.settings">
+                        Cài đặt                    </a>
+                </div>
+                <div class="section-item-content nav-sections-item-content"
+                     id="store.settings"
+                     data-role="content">
+                            <div class="switcher language switcher-language"  data-ui-id="language-switcher" id="switcher-language-nav">
+        <strong data-translate="[{&quot;shown&quot;:&quot;Ng\u00f4n ng\u1eef&quot;,&quot;translated&quot;:&quot;Ng\u00f4n ng\u1eef&quot;,&quot;original&quot;:&quot;Language&quot;,&quot;location&quot;:&quot;Strong emphasized text&quot;}]" class="label switcher-label"><span>Ngôn ngữ</span></strong>
+        <div class="actions dropdown options switcher-options">
+            <div class="action toggle switcher-trigger"
+                 id="switcher-language-trigger-nav"
+                 data-mage-init='{"dropdown":{}}'
+                 data-toggle="dropdown"
+                 data-trigger-keypress-button="true">
+                <strong class="view-vi">
+                    <span>Vietnamese</span>
+                </strong>
+            </div>
+            <ul class="dropdown switcher-dropdown"
+                data-target="dropdown">
+                                                            <li class="view-en switcher-option">
+                            <a href="https://hungdao.cmmage.app/vi/stores/store/redirect/___store/en/___from_store/vi/uenc/aHR0cHM6Ly9odW5nZGFvLmNtbWFnZS5hcHAvZW4v/">
+                                English                            </a>
+                        </li>
+                                                                                                                    <li class="view-zh switcher-option">
+                            <a href="https://hungdao.cmmage.app/vi/stores/store/redirect/___store/zh/___from_store/vi/uenc/aHR0cHM6Ly9odW5nZGFvLmNtbWFnZS5hcHAvemgv/">
+                                China                            </a>
+                        </li>
+                                                                                <li class="view-fr switcher-option">
+                            <a href="https://hungdao.cmmage.app/vi/stores/store/redirect/___store/fr/___from_store/vi/uenc/aHR0cHM6Ly9odW5nZGFvLmNtbWFnZS5hcHAvZnIv/">
+                                France                            </a>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+                </div>
+                    </div>
+    </div>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page-title-wrapper">
+    <h1 data-translate="[{&quot;shown&quot;:&quot; &quot;,&quot;translated&quot;:&quot; &quot;,&quot;original&quot;:&quot; &quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]" class="page-title"
+                >
+        <span class="base" data-ui-id="page-title-wrapper" > </span>    </h1>
+    </div>
+
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div aria-atomic="true" role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div aria-atomic="true" role="alert" class="messages" data-bind="foreach: {
+        data: messages().messages, as: 'message'
+    }">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: $parent.prepareMessageForHtml(message.text)"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="Bp4UBdz1o4iSxkp9" /><div id="authenticationPopup" data-bind="scope:'authenticationPopup', style: {display: 'none'}">
+        <script>window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/hungdao.cmmage.app\/vi\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/hungdao.cmmage.app\/vi\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/hungdao.cmmage.app\/vi\/","customerLoginUrl":"https:\/\/hungdao.cmmage.app\/vi\/customer\/ajax\/login\/"}</script>    <!-- ko template: getTemplate() --><!-- /ko -->
+        <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fstatic\u002Fversion1698912435\u002Ffrontend\u002FMagentop\u002Fmhung\u002Fvi_VN\u002Fimages\u002Floader\u002D1.gif"
+                            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":["*"],"stores\/store\/switchrequest":["*"],"directory\/currency\/switch":["*"],"*":["messages"],"customer\/account\/logout":["*","recently_viewed_product","recently_compared_product","persistent"],"customer\/account\/loginpost":["*"],"customer\/account\/createpost":["*"],"customer\/account\/editpost":["*"],"customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase","captcha"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","captcha"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"braintree\/googlepay\/placeorder":["cart","checkout-data"]},
+                "clientSideSections": ["checkout-data","cart-data"],
+                "baseUrls": ["https:\/\/hungdao.cmmage.app\/vi\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","instant-purchase","loggedAsCustomer","captcha","persistent","review","wishlist","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement"]            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fvi\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 60,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fvi\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/hungdao.cmmage.app\/vi\/page_cache\/block\/render\/","handles":["default","cms_index_index","cms_page_view","cms_index_index_id_home"],"originalRequest":{"route":"cms","controller":"index","action":"index","uri":"\/"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+    <script data-role="msrp-popup-template" type="text/x-magento-template">
+    <div id="map-popup-click-for-price" class="map-popup">
+        <div class="popup-header">
+            <strong class="title" id="map-popup-heading-price"></strong>
+        </div>
+        <div class="popup-content">
+            <div class="map-info-price" id="map-popup-content">
+                <div class="price-box">
+                    <div class="map-msrp" id="map-popup-msrp-box">
+                        <span class="label">Giá</span>
+                        <span class="old-price map-old-price" id="map-popup-msrp">
+                            <span class="price"></span>
+                        </span>
+                    </div>
+                    <div class="map-price" id="map-popup-price-box">
+                        <span class="label">Giá thực tế</span>
+                        <span id="map-popup-price" class="actual-price"></span>
+                    </div>
+                </div>
+                <form action="" method="POST" class="map-form-addtocart">
+                    <input type="hidden" name="product" class="product_id" value="" />
+                    <button type="button"
+                            title="Thêm vào Giỏ hàng"
+                            class="action tocart primary">
+                        <span>Thêm vào Giỏ hàng</span>
+                    </button>
+                    <div class="additional-addtocart-box">
+                        <div id ="paypal-smart-button" data-mage-init='{"Magento_Paypal/js/in-context/product-express-checkout"
+:{"clientConfig":{"button":1,"getTokenUrl":"https:\/\/hungdao.cmmage.app\/vi\/paypal\/express\/getTokenData\/","onAuthorizeUrl":"https:\/\/hungdao.cmmage.app\/vi\/paypal\/express\/onAuthorization\/","onCancelUrl":"https:\/\/hungdao.cmmage.app\/vi\/paypal\/express\/cancel\/","styles":{"layout":"vertical","size":"responsive","color":"gold","shape":"pill","label":"buynow"},"isVisibleOnProductPage":true,"isGuestCheckoutAllowed":true,"sdkUrl":"https:\/\/www.paypal.com\/sdk\/js?client-id=AUZfbDQ_4m8ibp82qV9pi9wxGkGrdGILVYWbWaTWreW9mmTm6LjQorLZxpP7kjymXc7flRnepHBFSQWp&locale=en_US&currency=USD&enable-funding=venmo&commit=false&intent=authorize&merchant-id=CMQLBBNT42WWC&disable-funding=card%2Cbancontact%2Ceps%2Cgiropay%2Cideal%2Cmybank%2Cp24%2Csofort&components=messages%2Cbuttons","dataAttributes":{"data-partner-attribution-id":"Magento_2_Community"}}}}'></div>
+                    </div>
+                </form>
+            </div>
+            <div class="map-text" id="map-popup-text">
+                Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.            </div>
+        </div>
+    </div>
+    </script><span class="translate-inline-script" data-translate="[{&quot;shown&quot;:&quot;Gi\u00e1&quot;,&quot;translated&quot;:&quot;Gi\u00e1&quot;,&quot;original&quot;:&quot;Price&quot;,&quot;location&quot;:&quot;String in Javascript&quot;},{&quot;shown&quot;:&quot;Gi\u00e1 th\u1ef1c t\u1ebf&quot;,&quot;translated&quot;:&quot;Gi\u00e1 th\u1ef1c t\u1ebf&quot;,&quot;original&quot;:&quot;Actual Price&quot;,&quot;location&quot;:&quot;String in Javascript&quot;},{&quot;shown&quot;:&quot;Th\u00eam v\u00e0o Gi\u1ecf h\u00e0ng&quot;,&quot;translated&quot;:&quot;Th\u00eam v\u00e0o Gi\u1ecf h\u00e0ng&quot;,&quot;original&quot;:&quot;Add to Cart&quot;,&quot;location&quot;:&quot;String in Javascript&quot;}]">SCRIPT</span>
+    <script data-role="msrp-info-template" type="text/x-magento-template">
+    <div id="map-popup-what-this" class="map-popup">
+        <div class="popup-header">
+            <strong class="title" id="map-popup-heading-what-this"></strong>
+        </div>
+        <div class="popup-content">
+            <div class="map-help-text" id="map-popup-text-what-this">
+                Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.            </div>
+        </div>
+    </div>
+    </script>
+<div class="container containerbanner">
+    <!-- banner -->
+        <div class="row d-flex ">
+            <div class="col-8 bannerchinhheader" data-bind="scope: 'banners'">
+               <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+            <div class="col-4 bannerphuheader">
+                    <img class="anhbannerphu" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/Artboard31.png" alt="imgpanelheader" />
+                    <img class="anhbannerphu" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/banner-facema_sk1.png" alt="imgpanelheader" />
+            </div>
+        <div class="row mt-5 d-flex">
+            <div class="col-3 itemsaubanner">
+                <div class="d-flex ">
+                <svg class="iconbanner" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-rocket-takeoff iconsbanner" viewBox="0 0 16 16">
+                    <path d="M9.752 6.193c.599.6 1.73.437 2.528-.362.798-.799.96-1.932.362-2.531-.599-.6-1.73-.438-2.528.361-.798.8-.96 1.933-.362 2.532Z"/>
+                    <path d="M15.811 3.312c-.363 1.534-1.334 3.626-3.64 6.218l-.24 2.408a2.56 2.56 0 0 1-.732 1.526L8.817 15.85a.51.51 0 0 1-.867-.434l.27-1.899c.04-.28-.013-.593-.131-.956a9.42 9.42 0 0 0-.249-.657l-.082-.202c-.815-.197-1.578-.662-2.191-1.277-.614-.615-1.079-1.379-1.275-2.195l-.203-.083a9.556 9.556 0 0 0-.655-.248c-.363-.119-.675-.172-.955-.132l-1.896.27A.51.51 0 0 1 .15 7.17l2.382-2.386c.41-.41.947-.67 1.524-.734h.006l2.4-.238C9.005 1.55 11.087.582 12.623.208c.89-.217 1.59-.232 2.08-.188.244.023.435.06.57.093.067.017.12.033.16.045.184.06.279.13.351.295l.029.073a3.475 3.475 0 0 1 .157.721c.055.485.051 1.178-.159 2.065Zm-4.828 7.475.04-.04-.107 1.081a1.536 1.536 0 0 1-.44.913l-1.298 1.3.054-.38c.072-.506-.034-.993-.172-1.418a8.548 8.548 0 0 0-.164-.45c.738-.065 1.462-.38 2.087-1.006ZM5.205 5c-.625.626-.94 1.351-1.004 2.09a8.497 8.497 0 0 0-.45-.164c-.424-.138-.91-.244-1.416-.172l-.38.054 1.3-1.3c.245-.246.566-.401.91-.44l1.08-.107-.04.039Zm9.406-3.961c-.38-.034-.967-.027-1.746.163-1.558.38-3.917 1.496-6.937 4.521-.62.62-.799 1.34-.687 2.051.107.676.483 1.362 1.048 1.928.564.565 1.25.941 1.924 1.049.71.112 1.429-.067 2.048-.688 3.079-3.083 4.192-5.444 4.556-6.987.183-.771.18-1.345.138-1.713a2.835 2.835 0 0 0-.045-.283 3.078 3.078 0 0 0-.3-.041Z"/>
+                    <path d="M7.009 12.139a7.632 7.632 0 0 1-1.804-1.352A7.568 7.568 0 0 1 3.794 8.86c-1.102.992-1.965 5.054-1.839 5.18.125.126 3.936-.896 5.054-1.902Z"/>
+                </svg>
+                    <div class="main ms-5">
+                        <h3 data-translate="[{&quot;shown&quot;:&quot;Giao h\u00e0ng Mi\u1ec5n ph\u00ed&quot;,&quot;translated&quot;:&quot;Giao h\u00e0ng Mi\u1ec5n ph\u00ed&quot;,&quot;original&quot;:&quot;Free Delivery&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Giao hàng Miễn phí</h3>
+                        <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x5C;u0110&#x5C;u1ed1i&#x20;v&#x5C;u1edbi&#x20;t&#x5C;u1ea5t&#x20;c&#x5C;u1ea3&#x20;c&#x5C;u00e1c&#x20;&#x5C;u0111&#x5C;u01a1n&#x20;h&#x5C;u00e0ng&#x20;tr&#x5C;u00ean&#x20;1,000,000&#x5C;u0111&quot;,&quot;translated&quot;&#x3A;&quot;&#x5C;u0110&#x5C;u1ed1i&#x20;v&#x5C;u1edbi&#x20;t&#x5C;u1ea5t&#x20;c&#x5C;u1ea3&#x20;c&#x5C;u00e1c&#x20;&#x5C;u0111&#x5C;u01a1n&#x20;h&#x5C;u00e0ng&#x20;tr&#x5C;u00ean&#x20;1,000,000&#x5C;u0111&quot;,&quot;original&quot;&#x3A;&quot;For&#x20;all&#x20;orders&#x20;over&#x20;1,000,000&#x5C;u0111&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Đối với tất cả các đơn hàng trên 1,000,000đ</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3 itemsaubanner">
+                <div class="d-flex ">
+                <svg class="iconbanner" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-circle iconsbanner" viewBox="0 0 16 16">
+                    <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                    <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+                </svg>
+                    <div class="main ms-5">
+                        <h3 data-translate="[{&quot;shown&quot;:&quot;S\u1ea3n ph\u1ea9m Ch\u1ea5t l\u01b0\u1ee3ng&quot;,&quot;translated&quot;:&quot;S\u1ea3n ph\u1ea9m Ch\u1ea5t l\u01b0\u1ee3ng&quot;,&quot;original&quot;:&quot;Authentic Products&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Sản phẩm Chất lượng</h3>
+                        <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Xu&#x5C;u1ea5t&#x20;x&#x5C;u1ee9&#x20;H&#x5C;u1ee3p&#x20;ph&#x5C;u00e1p&quot;,&quot;translated&quot;&#x3A;&quot;Xu&#x5C;u1ea5t&#x20;x&#x5C;u1ee9&#x20;H&#x5C;u1ee3p&#x20;ph&#x5C;u00e1p&quot;,&quot;original&quot;&#x3A;&quot;Legitimate&#x20;origin&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Xuất xứ Hợp pháp</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3 itemsaubanner">
+                <div class="d-flex">
+                <svg class="iconbanner" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-credit-card-2-front iconsbanner" viewBox="0 0 16 16">
+                    <path d="M14 3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12zM2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2z"/>
+                    <path d="M2 5.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-1zm0 3a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5z"/>
+                </svg>
+                    <div class="main ms-5">
+                        <h3 data-translate="[{&quot;shown&quot;:&quot;Thanh to\u00e1n An to\u00e0n&quot;,&quot;translated&quot;:&quot;Thanh to\u00e1n An to\u00e0n&quot;,&quot;original&quot;:&quot;Secure Payment&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Thanh toán An toàn</h3>
+                        <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Thanh&#x20;to&#x5C;u00e1n&#x20;100&#x25;&#x20;An&#x20;to&#x5C;u00e0n&quot;,&quot;translated&quot;&#x3A;&quot;Thanh&#x20;to&#x5C;u00e1n&#x20;100&#x25;&#x20;An&#x20;to&#x5C;u00e0n&quot;,&quot;original&quot;&#x3A;&quot;100&#x25;&#x20;secure&#x20;payment&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Thanh toán 100% An toàn</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3 itemsaubanner">
+                <div class="d-flex ">
+                <svg class="iconbanner" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat iconsbanner" viewBox="0 0 16 16">
+                    <path d="M2.678 11.894a1 1 0 0 1 .287.801 10.97 10.97 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8.06 8.06 0 0 0 8 14c3.996 0 7-2.807 7-6 0-3.192-3.004-6-7-6S1 4.808 1 8c0 1.468.617 2.83 1.678 3.894zm-.493 3.905a21.682 21.682 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a9.68 9.68 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105z"/>
+                </svg>
+                    <div class="main ms-5">
+                        <h3 data-translate="[{&quot;shown&quot;:&quot;H\u1ed7 tr\u1ee3 24\/7&quot;,&quot;translated&quot;:&quot;H\u1ed7 tr\u1ee3 24\/7&quot;,&quot;original&quot;:&quot;24\/7 Support&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Hỗ trợ 24/7</h3>
+                        <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;H&#x5C;u1ed7&#x20;tr&#x5C;u1ee3&#x20;Chuy&#x5C;u00ean&#x20;nghi&#x5C;u1ec7p&quot;,&quot;translated&quot;&#x3A;&quot;H&#x5C;u1ed7&#x20;tr&#x5C;u1ee3&#x20;Chuy&#x5C;u00ean&#x20;nghi&#x5C;u1ec7p&quot;,&quot;original&quot;&#x3A;&quot;Dedicated&#x20;support&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Hỗ trợ Chuyên nghiệp</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="mt-5">
+     <!-- banner --> 
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script>
+
+<script type="text/x-magento-init">
+{
+    ".bannerchinhheader": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "banners": {
+                    "component": "Magento_Theme/js/my-components",
+                    "template":  "Magento_Theme/banner"
+                }
+            }
+        }
+    }
+}
+</script>
+
+
+
+
+<div class="container topcategoriescontainer">
+        <div class="row mt-5 ">
+            <h1 data-translate="[{&quot;shown&quot;:&quot;C\u00e1c danh m\u1ee5c h\u00e0ng \u0111\u1ea7u trong th\u00e1ng&quot;,&quot;translated&quot;:&quot;C\u00e1c danh m\u1ee5c h\u00e0ng \u0111\u1ea7u trong th\u00e1ng&quot;,&quot;original&quot;:&quot;Top Categories Of The Month&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Các danh mục hàng đầu trong tháng</h1>
+            <div class="mt-5">
+                <div class="row rowcategories">
+                    <div class="col-4 itemcategories">
+                        <div class="topcategories border">
+                            <div class="row">
+                            <div class="col-6">
+                                <img class="p-4" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/topcategories1.png" alt="imgtopcategories" />
+                            </div>
+                            <div class="col-6">
+                                <h3 data-translate="[{&quot;shown&quot;:&quot;TV Truy\u1ec1n h\u00ecnh&quot;,&quot;translated&quot;:&quot;TV Truy\u1ec1n h\u00ecnh&quot;,&quot;original&quot;:&quot;TV Televisions&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">TV Truyền hình</h3>
+                                <p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;TV&#x20;Th&#x5C;u00f4ng&#x20;minh&quot;,&quot;translated&quot;&#x3A;&quot;TV&#x20;Th&#x5C;u00f4ng&#x20;minh&quot;,&quot;original&quot;&#x3A;&quot;Smart&#x20;TV&#x20;&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">TV Thông minh</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;TV&#x20;4K&#x20;Ultra&#x20;HD&quot;,&quot;translated&quot;&#x3A;&quot;TV&#x20;4K&#x20;Ultra&#x20;HD&quot;,&quot;original&quot;&#x3A;&quot;4K&#x20;Ultra&#x20;HD&#x20;TVs&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">TV 4K Ultra HD</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;TV&#x20;LED&quot;,&quot;translated&quot;&#x3A;&quot;TV&#x20;LED&quot;,&quot;original&quot;&#x3A;&quot;LED&#x20;TVs&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">TV LED</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;TV&#x20;OLED&quot;,&quot;translated&quot;&#x3A;&quot;TV&#x20;OLED&quot;,&quot;original&quot;&#x3A;&quot;OLED&#x20;TVs&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">TV OLED</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Ph&#x5C;u1ee5&#x20;ki&#x5C;u1ec7n&quot;,&quot;translated&quot;&#x3A;&quot;Ph&#x5C;u1ee5&#x20;ki&#x5C;u1ec7n&quot;,&quot;original&quot;&#x3A;&quot;Accessories&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Phụ kiện</span></p>
+                                </p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 itemcategories">
+                        <div class="topcategories border">
+                            <div class="row">
+                            <div class="col-6">
+                                <img class="p-4" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/topcategories2.png" alt="imgtopcategories" />
+                            </div>
+                            <div class="col-6">
+                                <h3 data-translate="[{&quot;shown&quot;:&quot;Ch\u0103m s\u00f3c c\u00e1 nh\u00e2n&quot;,&quot;translated&quot;:&quot;Ch\u0103m s\u00f3c c\u00e1 nh\u00e2n&quot;,&quot;original&quot;:&quot;Personal Care&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Chăm sóc cá nhân</h3>
+                                <p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;M&#x5C;u1eb7t&#x20;n&#x5C;u1ea1&quot;,&quot;translated&quot;&#x3A;&quot;M&#x5C;u1eb7t&#x20;n&#x5C;u1ea1&quot;,&quot;original&quot;&#x3A;&quot;Face&#x20;mask&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Mặt nạ</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;M&#x5C;u00e0n&#x20;b&#x5C;u1ea3o&#x20;v&#x5C;u1ec7&#x20;khu&#x5C;u00f4n&#x20;m&#x5C;u1eb7t&quot;,&quot;translated&quot;&#x3A;&quot;M&#x5C;u00e0n&#x20;b&#x5C;u1ea3o&#x20;v&#x5C;u1ec7&#x20;khu&#x5C;u00f4n&#x20;m&#x5C;u1eb7t&quot;,&quot;original&quot;&#x3A;&quot;Face&#x20;shield&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Màn bảo vệ khuôn mặt</span></p>
+                                </p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 itemcategories">
+                        <div class="topcategories border">
+                            <div class="row d-flex">
+                            <div class="col-6">
+                                <img class="p-4" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/topcategories3.png" alt="imgtopcategories" />
+                            </div>
+                            <div class="col-6">
+                                <h3 data-translate="[{&quot;shown&quot;:&quot;Thi\u1ebft b\u1ecb nh\u1ecf g\u1ecdn&quot;,&quot;translated&quot;:&quot;Thi\u1ebft b\u1ecb nh\u1ecf g\u1ecdn&quot;,&quot;original&quot;:&quot;Small Appliances&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Thiết bị nhỏ gọn</h3>
+                                <p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;L&#x5C;u00f2&#x20;vi&#x20;s&#x5C;u00f3ng&quot;,&quot;translated&quot;&#x3A;&quot;L&#x5C;u00f2&#x20;vi&#x20;s&#x5C;u00f3ng&quot;,&quot;original&quot;&#x3A;&quot;Microwave&#x20;oven&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Lò vi sóng</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;M&#x5C;u00e1y&#x20;chi&#x5C;u00ean&#x20;kh&#x5C;u00f4ng&#x20;d&#x5C;u1ea7u&quot;,&quot;translated&quot;&#x3A;&quot;M&#x5C;u00e1y&#x20;chi&#x5C;u00ean&#x20;kh&#x5C;u00f4ng&#x20;d&#x5C;u1ea7u&quot;,&quot;original&quot;&#x3A;&quot;Air&#x20;Fryer&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Máy chiên không dầu</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;N&#x5C;u1ed3i&#x20;c&#x5C;u01a1m&#x20;&#x5C;u0111i&#x5C;u1ec7n&quot;,&quot;translated&quot;&#x3A;&quot;N&#x5C;u1ed3i&#x20;c&#x5C;u01a1m&#x20;&#x5C;u0111i&#x5C;u1ec7n&quot;,&quot;original&quot;&#x3A;&quot;Rice&#x20;cooker&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Nồi cơm điện</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x5C;u1ea4m&#x20;&#x5C;u0111un&#x20;n&#x5C;u01b0&#x5C;u1edbc&quot;,&quot;translated&quot;&#x3A;&quot;&#x5C;u1ea4m&#x20;&#x5C;u0111un&#x20;n&#x5C;u01b0&#x5C;u1edbc&quot;,&quot;original&quot;&#x3A;&quot;Kettle&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Ấm đun nước</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;N&#x5C;u1ed3i&#x20;n&#x5C;u1ea5u&#x20;ch&#x5C;u1ea3o&quot;,&quot;translated&quot;&#x3A;&quot;N&#x5C;u1ed3i&#x20;n&#x5C;u1ea5u&#x20;ch&#x5C;u1ea3o&quot;,&quot;original&quot;&#x3A;&quot;Jar&#x20;pot&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Nồi nấu chảo</span></p>
+                                </p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 itemcategories">
+                        <div class="topcategories border">
+                            <div class="row">
+                            <div class="col-6">
+                                <img class="p-4" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/topcategories4.png" alt="imgtopcategories" />
+                            </div>
+                            <div class="col-6">
+                                <h3 data-translate="[{&quot;shown&quot;:&quot;H\u00e0ng ti\u00eau d\u00f9ng&quot;,&quot;translated&quot;:&quot;H\u00e0ng ti\u00eau d\u00f9ng&quot;,&quot;original&quot;:&quot;Consumer Goods&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Hàng tiêu dùng</h3>
+                                <p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;M&#x5C;u00e1y&#x20;gi&#x5C;u1eb7t&#x20;v&#x5C;u00e0&quot;,&quot;translated&quot;&#x3A;&quot;M&#x5C;u00e1y&#x20;gi&#x5C;u1eb7t&#x20;v&#x5C;u00e0&quot;,&quot;original&quot;&#x3A;&quot;Washing&#x20;and&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Máy giặt và</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Ch&#x5C;u1ea5t&#x20;l&#x5C;u00e0m&#x20;s&#x5C;u1ea1ch&quot;,&quot;translated&quot;&#x3A;&quot;Ch&#x5C;u1ea5t&#x20;l&#x5C;u00e0m&#x20;s&#x5C;u1ea1ch&quot;,&quot;original&quot;&#x3A;&quot;Cleanser&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Chất làm sạch</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;D&#x5C;u1ecbch&#x20;v&#x5C;u1ee5&#x20;ch&#x5C;u0103m&#x20;s&#x5C;u00f3c&#x20;nh&#x5C;u00e0&#x20;c&#x5C;u1eeda&quot;,&quot;translated&quot;&#x3A;&quot;D&#x5C;u1ecbch&#x20;v&#x5C;u1ee5&#x20;ch&#x5C;u0103m&#x20;s&#x5C;u00f3c&#x20;nh&#x5C;u00e0&#x20;c&#x5C;u1eeda&quot;,&quot;original&quot;&#x3A;&quot;Home&#x20;care&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Dịch vụ chăm sóc nhà cửa</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x5C;u00d4&#x20;t&#x5C;u00f4&#x20;v&#x5C;u1ec7&#x20;sinh&quot;,&quot;translated&quot;&#x3A;&quot;&#x5C;u00d4&#x20;t&#x5C;u00f4&#x20;v&#x5C;u1ec7&#x20;sinh&quot;,&quot;original&quot;&#x3A;&quot;Hygienic&#x20;car&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Ô tô vệ sinh</span>e</p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;X&#x5C;u1eed&#x20;l&#x5C;u00fd&#x20;c&#x5C;u00f4n&#x20;tr&#x5C;u00f9ng&quot;,&quot;translated&quot;&#x3A;&quot;X&#x5C;u1eed&#x20;l&#x5C;u00fd&#x20;c&#x5C;u00f4n&#x20;tr&#x5C;u00f9ng&quot;,&quot;original&quot;&#x3A;&quot;Insect&#x20;treatment&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Xử lý côn trùng</span></p>
+                                </p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 itemcategories">
+                        <div class="topcategories border">
+                            <div class="row">
+                            <div class="col-6">
+                                <img class="p-4" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/topcategories5.png" alt="imgtopcategories" />
+                            </div>
+                            <div class="col-6">
+                                <h3 data-translate="[{&quot;shown&quot;:&quot;Th\u1ef1c ph\u1ea9m &amp; \u0110\u1ed3 u\u1ed1ng&quot;,&quot;translated&quot;:&quot;Th\u1ef1c ph\u1ea9m &amp; \u0110\u1ed3 u\u1ed1ng&quot;,&quot;original&quot;:&quot;Food &amp; Drink&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Thực phẩm & Đồ uống</h3>
+                                <p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Tr&#x5C;u00e1i&#x20;c&#x5C;u00e2y&quot;,&quot;translated&quot;&#x3A;&quot;Tr&#x5C;u00e1i&#x20;c&#x5C;u00e2y&quot;,&quot;original&quot;&#x3A;&quot;Fruit&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Trái cây</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;K&#x5C;u1eb9o&#x20;k&#x5C;u1eb9o&quot;,&quot;translated&quot;&#x3A;&quot;K&#x5C;u1eb9o&#x20;k&#x5C;u1eb9o&quot;,&quot;original&quot;&#x3A;&quot;Confectionary&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Kẹo kẹo</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x5C;u0110&#x5C;u1ed3&#x20;u&#x5C;u1ed1ng&quot;,&quot;translated&quot;&#x3A;&quot;&#x5C;u0110&#x5C;u1ed3&#x20;u&#x5C;u1ed1ng&quot;,&quot;original&quot;&#x3A;&quot;Beverage&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Đồ uống</span></p>
+                                    <p class="reviewtopcate"><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Gia&#x20;v&#x5C;u1ecb&quot;,&quot;translated&quot;&#x3A;&quot;Gia&#x20;v&#x5C;u1ecb&quot;,&quot;original&quot;&#x3A;&quot;Seasoning&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Gia vị</span></p>
+                                </p>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 itemcategories">
+                        <div class="topcategories border">
+                            <div class="row">
+                            <div class="col-6">
+                                <img class="p-4" src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/topcategories6.png" alt="imgtopcategories" />
+                            </div>
+                            <div class="col-6">
+                                <h3 data-translate="[{&quot;shown&quot;:&quot;B\u1ed5 sung dinh d\u01b0\u1ee1ng&quot;,&quot;translated&quot;:&quot;B\u1ed5 sung dinh d\u01b0\u1ee1ng&quot;,&quot;original&quot;:&quot;Dietary Supplement&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Bổ sung dinh dưỡng</h3>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </div>
+</div><div class="container dealofdaycontainer">
+    <div class="row mt-5">
+            <h1 data-translate="[{&quot;shown&quot;:&quot;\u01afu \u0111\u00e3i Ng\u00e0y h\u00f4m nay&quot;,&quot;translated&quot;:&quot;\u01afu \u0111\u00e3i Ng\u00e0y h\u00f4m nay&quot;,&quot;original&quot;:&quot;Deals Of The Day&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Ưu đãi Ngày hôm nay</h1>
+            <hr class="mt-3">
+            <div class="row">
+                <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" style="display: flex; align-items: center;">
+                                <div class="motphandealofday" style="width: 200px; height: 200px;">
+                                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/dealofday.png" alt="" style="max-width: 100%; height: auto;" />
+                                    <div>
+                                        <h4 style=" display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; color: #93117B; margin-top: 1rem; margin-bottom: 0px;">Sữa Dưỡng Phục Hồi Tái Tạo Da B5 Neogence 50</h4>
+                                        <p class="productslider mt-2"></p>
+                                        <p>799.000 đ</p>
+                                        <p style="font-weight: bold;">
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                                </svg> 
+                                            Member Wednesday
+                                        </p>
+                                        <p style="font-weight: bold;"> 
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                                                    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                                                </svg>  
+                                            From 00:00 to 15:00
+                                        </p>
+                                        <h4 class="pricedealofday" style="color: red;">355.000 đ <span><p>-50%</p></span></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item" style="display: flex; align-items: center;">
+                                <div class="motphandealofday" style="width: 200px; height: 200px;">
+                                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/dealofday.png" alt="" style="max-width: 100%; height: auto;" />
+                                    <div>
+                                        <h4 style=" display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; color: #93117B; margin-top: 1rem; margin-bottom: 0px;">Sữa Dưỡng Phục Hồi Tái Tạo Da B5 Neogence 50</h4>
+                                        <p class="productslider mt-2"></p>
+                                        <p>799.000 đ</p>
+                                        <p style="font-weight: bold;">
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                                </svg> 
+                                            Member Wednesday
+                                        </p>
+                                        <p style="font-weight: bold;"> 
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                                                    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                                                </svg>  
+                                            From 00:00 to 15:00
+                                        </p>
+                                        <h4 class="pricedealofday" style="color: red;">355.000 đ <span><p>-50%</p></span></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item" style="display: flex; align-items: center;">
+                                <div class="motphandealofday" style="width: 200px; height: 200px;">
+                                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/dealofday.png" alt="" style="max-width: 100%; height: auto;" />
+                                    <div>
+                                        <h4 style=" display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; color: #93117B; margin-top: 1rem; margin-bottom: 0px;">Sữa Dưỡng Phục Hồi Tái Tạo Da B5 Neogence 50</h4>
+                                        <p class="productslider mt-2"></p>
+                                        <p>799.000 đ</p>
+                                        <p style="font-weight: bold;">
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                                </svg> 
+                                            Member Wednesday
+                                        </p>
+                                        <p style="font-weight: bold;"> 
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                                                    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                                                </svg>  
+                                            From 00:00 to 15:00
+                                        </p>
+                                        <h4 class="pricedealofday" style="color: red;">355.000 đ <span><p>-50%</p></span></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item" style="display: flex; align-items: center;">
+                                <div class="motphandealofday" style="width: 200px; height: 200px;">
+                                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/dealofday.png" alt="" style="max-width: 100%; height: auto;" />
+                                    <div>
+                                        <h4 style=" display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; color: #93117B; margin-top: 1rem; margin-bottom: 0px;">Sữa Dưỡng Phục Hồi Tái Tạo Da B5 Neogence 50</h4>
+                                        <p class="productslider mt-2"></p>
+                                        <p>799.000 đ</p>
+                                        <p style="font-weight: bold;">
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                                </svg> 
+                                            Member Wednesday
+                                        </p>
+                                        <p style="font-weight: bold;"> 
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                                                    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                                                </svg>  
+                                            From 00:00 to 15:00
+                                        </p>
+                                        <h4 class="pricedealofday" style="color: red;">355.000 đ <span><p>-50%</p></span></h4>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="item" style="display: flex; align-items: center;">
+                                <div class="motphandealofday" style="width: 200px; height: 200px;">
+                                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/dealofday.png" alt="" style="max-width: 100%; height: auto;" />
+                                    <div>
+                                        <h4 style=" display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; color: #93117B; margin-top: 1rem; margin-bottom: 0px;">Sữa Dưỡng Phục Hồi Tái Tạo Da B5 Neogence 50</h4>
+                                        <p class="productslider mt-2"></p>
+                                        <p>799.000 đ</p>
+                                        <p style="font-weight: bold;">
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                                </svg> 
+                                            Member Wednesday
+                                        </p>
+                                        <p style="font-weight: bold;"> 
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                                                    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                                                </svg>  
+                                            From 00:00 to 15:00
+                                        </p>
+                                        <h4 class="pricedealofday" style="color: red;">355.000 đ <span><p>-50%</p></span></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item" style="display: flex; align-items: center;">
+                                <div class="motphandealofday" style="width: 200px; height: 200px;">
+                                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/dealofday.png" alt="" style="max-width: 100%; height: auto;" />
+                                    <div>
+                                        <h4 style=" display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; color: #93117B; margin-top: 1rem; margin-bottom: 0px;">Sữa Dưỡng Phục Hồi Tái Tạo Da B5 Neogence 50</h4>
+                                        <p class="productslider mt-2"></p>
+                                        <p>799.000 đ</p>
+                                        <p style="font-weight: bold;">
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+                                                    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                                                    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+                                                </svg> 
+                                            Member Wednesday
+                                        </p>
+                                        <p style="font-weight: bold;"> 
+                                                <svg style="color: #93117B;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                                                    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                                                </svg>  
+                                            From 00:00 to 15:00
+                                        </p>
+                                        <h4 class="pricedealofday" style="color: red;">355.000 đ <span><p>-50%</p></span></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                    
+                         
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6 bannersaudealofday">
+                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/banner 13 1.png" alt="imgpanelheaderdof" />
+                </div>
+                <div class="col-6 bannersaudealofday">
+                    <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/Artboard 4 1.png" alt="imgpanelheaderdof" />
+                </div>
+            </div>
+     </div>
+</div><span class="display:none;"></span><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;S\u1ea3n ph\u1ea9m B\u00e1n ch\u1ea1y&quot;,&quot;translated&quot;:&quot;S\u1ea3n ph\u1ea9m B\u00e1n ch\u1ea1y&quot;,&quot;original&quot;:&quot;Best Seller&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Sản phẩm Bán chạy</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container">
+    <div class="row">
+            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/Banners2.png" alt="">
+    </div>
+</div><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;M\u00e1y \u00e9p Chanh Cam&quot;,&quot;translated&quot;:&quot;M\u00e1y \u00e9p Chanh Cam&quot;,&quot;original&quot;:&quot;Citrus Juicer&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Máy ép Chanh Cam</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;M\u00e1y Tr\u1ed9n&quot;,&quot;translated&quot;:&quot;M\u00e1y Tr\u1ed9n&quot;,&quot;original&quot;:&quot;Blender&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Máy Trộn</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;L\u00f2 \u0110i\u1ec7n&quot;,&quot;translated&quot;:&quot;L\u00f2 \u0110i\u1ec7n&quot;,&quot;original&quot;:&quot;Electric Oven&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Lò Điện</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;M\u00e1y t\u1ea1o kh\u00f4ng kh\u00ed s\u1ea1ch&quot;,&quot;translated&quot;:&quot;M\u00e1y t\u1ea1o kh\u00f4ng kh\u00ed s\u1ea1ch&quot;,&quot;original&quot;:&quot;Air Purifier&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Máy tạo không khí sạch</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;\u0110i\u1ec1u h\u00f2a kh\u00f4ng kh\u00ed&quot;,&quot;translated&quot;:&quot;\u0110i\u1ec1u h\u00f2a kh\u00f4ng kh\u00ed&quot;,&quot;original&quot;:&quot;Air-Conditioner&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Điều hòa không khí</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container">
+    <div class="row mt-5">
+        <h1 data-translate="[{&quot;shown&quot;:&quot;T\u1ee7 L\u1ea1nh&quot;,&quot;translated&quot;:&quot;T\u1ee7 L\u1ea1nh&quot;,&quot;original&quot;:&quot;Refrigerator&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Tủ Lạnh</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product1.png" alt=""  />     
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product2.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">
+                                       <p>$800</p>  
+                                    </h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product3.png" alt="" />
+                                
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product4.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div> 
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/product5.png" alt="" />
+
+                                <div class="thongtinsanpham">
+                                    <h4 style="color: #93117B;">Multi cooker 9 Liters</h4>
+                                    <h3 class="gianew">$800</h3>
+                                    <p class="giagoc">$1000</p>
+                                    <p class="productslider mt-2"></p>
+                                </div>
+                            </div>      
+                     </div>
+                    </div>
+             </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    require(['banner']);
+</script><div class="container containernew">
+    <div class="row">
+        <div class="col">
+            <div class="new" style="background-color: #FAD2F2;">
+                <div class="row mt-5">
+                    <div class="row rownewtop" style="padding-top: 50px;">
+                        <div class="col-6 titlenew">
+                            <h1 data-translate="[{&quot;shown&quot;:&quot;Tin t\u1ee9c&quot;,&quot;translated&quot;:&quot;Tin t\u1ee9c&quot;,&quot;original&quot;:&quot;News&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Tin tức</h1>
+                        </div>
+                        <div class="col-6  newtextlink">
+                            <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Xem&#x20;x&#x5C;u00e9t&#x20;S&#x5C;u1ea3n&#x20;ph&#x5C;u1ea9m&quot;,&quot;translated&quot;&#x3A;&quot;Xem&#x20;x&#x5C;u00e9t&#x20;S&#x5C;u1ea3n&#x20;ph&#x5C;u1ea9m&quot;,&quot;original&quot;&#x3A;&quot;Review&#x20;Product&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Xem xét Sản phẩm</span></p>
+                            <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;M&#x5C;u1eb9o&#x20;&amp;&#x20;K&#x5C;u1ef9&#x20;thu&#x5C;u1eadt&quot;,&quot;translated&quot;&#x3A;&quot;M&#x5C;u1eb9o&#x20;&amp;&#x20;K&#x5C;u1ef9&#x20;thu&#x5C;u1eadt&quot;,&quot;original&quot;&#x3A;&quot;Tips&#x20;&amp;&#x20;Tricks&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Mẹo & Kỹ thuật</span></p>
+                            <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Khuy&#x5C;u1ebfn&#x20;m&#x5C;u00e3i&quot;,&quot;translated&quot;&#x3A;&quot;Khuy&#x5C;u1ebfn&#x20;m&#x5C;u00e3i&quot;,&quot;original&quot;&#x3A;&quot;Promotions&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Khuyến mãi</span></p>
+                            <p><span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;Xem&#x20;T&#x5C;u1ea5t&#x20;c&#x5C;u1ea3&quot;,&quot;translated&quot;&#x3A;&quot;Xem&#x20;T&#x5C;u1ea5t&#x20;c&#x5C;u1ea3&quot;,&quot;original&quot;&#x3A;&quot;View&#x20;All&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">Xem Tất cả</span></p>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row rownewunder">
+                        <div class="col-3 itemnew">
+                            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/new.png" alt="">
+                            <h3 data-translate="[{&quot;shown&quot;:&quot;L\u00e0m c\u00e1ch n\u00e0o \u0111\u1ec3 L\u00e0m N\u01b0\u1edbc \u00e9p T\u01b0\u01a1i ngon cho Gia \u0111\u00ecnh c\u1ee7a b\u1ea1n?&quot;,&quot;translated&quot;:&quot;L\u00e0m c\u00e1ch n\u00e0o \u0111\u1ec3 L\u00e0m N\u01b0\u1edbc \u00e9p T\u01b0\u01a1i ngon cho Gia \u0111\u00ecnh c\u1ee7a b\u1ea1n?&quot;,&quot;original&quot;:&quot;How To Make A Fresh Juice Blended For Your Family?&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Làm cách nào để Làm Nước ép Tươi ngon cho Gia đình của bạn?</h3>
+                            <button data-translate="[{&quot;shown&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;translated&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;original&quot;:&quot;Organic&quot;,&quot;location&quot;:&quot;Push button&quot;}]" style="background-color: #93117B; color: white;">Hữu cơ</button>
+                        </div>
+                        <div class="col-3 itemnew">
+                            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/new1.png" alt="">
+                            <h3 data-translate="[{&quot;shown&quot;:&quot;Tr\u1ee9ng t\u01b0\u01a1i Caroline \u1edf c\u00e1c l\u00e0ng \u1edf Australia&quot;,&quot;translated&quot;:&quot;Tr\u1ee9ng t\u01b0\u01a1i Caroline \u1edf c\u00e1c l\u00e0ng \u1edf Australia&quot;,&quot;original&quot;:&quot;Fresh Eggs Caroline In Australia Villages&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Trứng tươi Caroline ở các làng ở Australia</h3>
+                            <button data-translate="[{&quot;shown&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;translated&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;original&quot;:&quot;Organic&quot;,&quot;location&quot;:&quot;Push button&quot;}]" style="background-color: #93117B; color: white;">Hữu cơ</button>
+                        </div>
+                        <div class="col-3 itemnew">
+                            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/new2.png" alt="">
+                            <h3 data-translate="[{&quot;shown&quot;:&quot;Kh\u00e1m ph\u00e1 c\u00e1c trang tr\u1ea1i H\u1eefu c\u01a1 t\u01b0\u01a1i ngon \u1edf c\u00e1c l\u00e0ng \u1edf Th\u1ee5y S\u0129&quot;,&quot;translated&quot;:&quot;Kh\u00e1m ph\u00e1 c\u00e1c trang tr\u1ea1i H\u1eefu c\u01a1 t\u01b0\u01a1i ngon \u1edf c\u00e1c l\u00e0ng \u1edf Th\u1ee5y S\u0129&quot;,&quot;original&quot;:&quot;Discover Fresh Organic Farms In Switzerland Villages&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">Khám phá các trang trại Hữu cơ tươi ngon ở các làng ở Thụy Sĩ</h3>
+                            <button data-translate="[{&quot;shown&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;translated&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;original&quot;:&quot;Organic&quot;,&quot;location&quot;:&quot;Push button&quot;}]" style="background-color: #93117B; color: white;">Hữu cơ</button>
+                        </div>
+                        <div class="col-3 itemnew">
+                            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/new3.png" alt="">
+                            <h3 data-translate="[{&quot;shown&quot;:&quot;B&amp;O Play - Tai nghe t\u1ed1t nh\u1ea5t d\u00e0nh cho b\u1ea1n&quot;,&quot;translated&quot;:&quot;B&amp;O Play - Tai nghe t\u1ed1t nh\u1ea5t d\u00e0nh cho b\u1ea1n&quot;,&quot;original&quot;:&quot;B&amp;O Play - Best Headphone For You&quot;,&quot;location&quot;:&quot;Heading level 3&quot;}]">B&O Play - Tai nghe tốt nhất dành cho bạn</h3>
+                            <button data-translate="[{&quot;shown&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;translated&quot;:&quot;H\u1eefu c\u01a1&quot;,&quot;original&quot;:&quot;Organic&quot;,&quot;location&quot;:&quot;Push button&quot;}]" style="background-color: #93117B; color: white;">Hữu cơ</button>
+                        </div>
+                    </div>
+                 </div>
+             </div>
+        </div>
+    </div>
+</div><div class="container">
+    <div class="row mt-5">
+            <h1 data-translate="[{&quot;shown&quot;:&quot;S\u1ea3n ph\u1ea9m b\u1ea1n v\u1eeba xem g\u1ea7n \u0111\u00e2y&quot;,&quot;translated&quot;:&quot;S\u1ea3n ph\u1ea9m b\u1ea1n v\u1eeba xem g\u1ea7n \u0111\u00e2y&quot;,&quot;original&quot;:&quot;Your Recently Viewed Products&quot;,&quot;location&quot;:&quot;Heading level 1&quot;}]">Sản phẩm bạn vừa xem gần đây</h1>
+            <hr class="mt-3">
+                <div class="row">
+                    <div class="col-12">
+                    <div class="my-slick-carouseldealofday">
+                            <div class="item" >
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/RecentProduct1.png" alt=""  />              
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/RecentProduct2.png" alt="" />
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/RecentProduct3.png" alt="" />
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/RecentProduct4.png" alt="" />
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/RecentProduct5.png" alt="" />
+                            </div>
+                            <div class="item">
+                                <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/RecentProduct1.png" alt="" />
+                            </div>
+                    </div>
+                    </div>
+                </div>
+    </div>
+</div></div></div></main><footer class="footer"><footer>
+    <div class="container pt-5">
+        <div class="row mb-5 topfooter">
+            <div class="col-3 itemfooter">
+                <div id="quickLinksHeader" class="dropdownfooter">
+                    <h4 data-translate="[{&quot;shown&quot;:&quot;Li\u00ean k\u1ebft Nhanh&quot;,&quot;translated&quot;:&quot;Li\u00ean k\u1ebft Nhanh&quot;,&quot;original&quot;:&quot;QUICK LINKs&quot;,&quot;location&quot;:&quot;Heading level 4&quot;}]" class="headerfooter dropdown-content" >Liên kết Nhanh</h4>
+                    <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                    <div class="mt-5" id="quickLinksList">
+                        <p class="footertext">
+                                <a data-translate="[{&quot;shown&quot;:&quot;\u0110i\u1ec1u kho\u1ea3n &amp; \u0110i\u1ec1u ki\u1ec7n&quot;,&quot;translated&quot;:&quot;\u0110i\u1ec1u kho\u1ea3n &amp; \u0110i\u1ec1u ki\u1ec7n&quot;,&quot;original&quot;:&quot;Terms &amp; Conditions&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Điều khoản & Điều kiện</a>
+                        </p> 
+                        <p class="footertext">
+                                <a data-translate="[{&quot;shown&quot;:&quot;Ch\u00ednh s\u00e1ch Quy\u1ec1n ri\u00eang t\u01b0&quot;,&quot;translated&quot;:&quot;Ch\u00ednh s\u00e1ch Quy\u1ec1n ri\u00eang t\u01b0&quot;,&quot;original&quot;:&quot;Privacy Policies&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Chính sách Quyền riêng tư</a>
+                        </p>  
+                        <p class="footertext">
+                                <a data-translate="[{&quot;shown&quot;:&quot;Giao h\u00e0ng - Tr\u1ea3 h\u00e0ng - B\u1ea3o h\u00e0nh&quot;,&quot;translated&quot;:&quot;Giao h\u00e0ng - Tr\u1ea3 h\u00e0ng - B\u1ea3o h\u00e0nh&quot;,&quot;original&quot;:&quot;Delivery - Return - Warranty&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Giao hàng - Trả hàng - Bảo hành</a>
+                        </p>  
+                        <p class="footertext">
+                                <a data-translate="[{&quot;shown&quot;:&quot;Ph\u01b0\u01a1ng th\u1ee9c Thanh to\u00e1n&quot;,&quot;translated&quot;:&quot;Ph\u01b0\u01a1ng th\u1ee9c Thanh to\u00e1n&quot;,&quot;original&quot;:&quot;Payment Methods&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Phương thức Thanh toán</a>
+                        </p>  
+                        <p class="footertext">
+                                <a data-translate="[{&quot;shown&quot;:&quot;Ch\u01b0\u01a1ng tr\u00ecnh Kh\u00e1ch h\u00e0ng Th\u00e2n thi\u1ebft&quot;,&quot;translated&quot;:&quot;Ch\u01b0\u01a1ng tr\u00ecnh Kh\u00e1ch h\u00e0ng Th\u00e2n thi\u1ebft&quot;,&quot;original&quot;:&quot;Loyalty Program&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Chương trình Khách hàng Thân thiết</a>
+                        </p>  
+                    </div>
+            </div>
+
+            <div class="col-3 itemfooter">
+                    <div id="quickLinksHeader2" class="dropdownfooter">
+                        <h4 data-translate="[{&quot;shown&quot;:&quot;C\u00d4NG TY&quot;,&quot;translated&quot;:&quot;C\u00d4NG TY&quot;,&quot;original&quot;:&quot;COMPANY&quot;,&quot;location&quot;:&quot;Heading level 4&quot;}]" class="headerfooter dropdown-content">CÔNG TY</h4>
+                        <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </div>
+                    <div class="mt-5" id="quickLinksList2">
+                        <p class="footertext">
+                            <a data-translate="[{&quot;shown&quot;:&quot;V\u1ec1 ch\u00fang t\u00f4i&quot;,&quot;translated&quot;:&quot;V\u1ec1 ch\u00fang t\u00f4i&quot;,&quot;original&quot;:&quot;About us&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Về chúng tôi</a>
+                        </p> 
+                        <p class="footertext">
+                            <a data-translate="[{&quot;shown&quot;:&quot;C\u00e2u h\u1ecfi Th\u01b0\u1eddng g\u1eb7p&quot;,&quot;translated&quot;:&quot;C\u00e2u h\u1ecfi Th\u01b0\u1eddng g\u1eb7p&quot;,&quot;original&quot;:&quot;FAQs&quot;,&quot;location&quot;:&quot;Link label&quot;}]" class="footerlink" href="">Câu hỏi Thường gặp</a>
+                        </p> 
+
+                        <div class="mt-2">
+                            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/nganhang.png" alt="">
+                        </div>
+                    </div>
+                    
+            </div>
+            <div class="col-3 itemfooter">
+                 <div id="quickLinksHeader3" class="dropdownfooter"  data-bind=" scope: 'contactus'">
+                    <h4 data-translate="[{&quot;shown&quot;:&quot;Theo d\u00f5i ch\u00fang t\u00f4i&quot;,&quot;translated&quot;:&quot;Theo d\u00f5i ch\u00fang t\u00f4i&quot;,&quot;original&quot;:&quot;Follow us&quot;,&quot;location&quot;:&quot;Heading level 4&quot;}]" class="headerfooter">Theo dõi chúng tôi</h4>
+                    <svg class="imgdropdown" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <path d="M15 12.5L10 7.5L5 12.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+                <button id="contactUsButton">Contact us</button>
+                <div id="contactus" class="contactus" data-bind="scope: 'contactuss'">
+                        <!-- ko template: getTemplate() --><!-- /ko -->
+                </div>
+                
+                <div class="mt-5" id="quickLinksList3">
+                    <h4 data-translate="[{&quot;shown&quot;:&quot;\u1ee8ng d\u1ee5ng di \u0111\u1ed9ng c\u1ee7a ch\u00fang t\u00f4i&quot;,&quot;translated&quot;:&quot;\u1ee8ng d\u1ee5ng di \u0111\u1ed9ng c\u1ee7a ch\u00fang t\u00f4i&quot;,&quot;original&quot;:&quot;Our Mobile Apps&quot;,&quot;location&quot;:&quot;Heading level 4&quot;}]" class="headerfooter">Ứng dụng di động của chúng tôi</h4>
+                    <div>
+                        <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/appstore.png" alt="">
+                    </div>
+                    <div>
+                        <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/googleplay.png" alt="">
+                    </div>
+                </div>
+                   
+            </div>
+            <div class="col-3 itemfooter itemfooteripad">
+                <div  class="dropdownfooter">
+                    <h4 data-translate="[{&quot;shown&quot;:&quot;C\u00d4NG TY TNHH \u0110I\u1ec6N T\u1eec SHARP VI\u1ec6T NAM&quot;,&quot;translated&quot;:&quot;C\u00d4NG TY TNHH \u0110I\u1ec6N T\u1eec SHARP VI\u1ec6T NAM&quot;,&quot;original&quot;:&quot;C\u00d4NG TY TNHH \u0110I\u1ec6N T\u1eec SHARP VI\u1ec6T NAM&quot;,&quot;location&quot;:&quot;Heading level 4&quot;}]" class="headerfooter">CÔNG TY TNHH ĐIỆN TỬ SHARP VIỆT NAM</h4>
+                </div>
+                <div class="mt-5 ssss">
+                    <p class="footerp">
+
+                    <span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x20;&#x5C;u0110&#x5C;u1ecba&#x20;ch&#x5C;u1ec9&#x3A;&quot;,&quot;translated&quot;&#x3A;&quot;&#x20;&#x5C;u0110&#x5C;u1ecba&#x20;ch&#x5C;u1ec9&#x3A;&quot;,&quot;original&quot;&#x3A;&quot;&#x20;&#x5C;u0110&#x5C;u1ecba&#x20;ch&#x5C;u1ec9&#x3A;&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]"> Địa chỉ:</span>                        T5-B03.07 & T5-B03.09, Lầu 3 Masteri Thảo Điền
+                        159 Xa Lộ Hà Nội, Phường Thảo Điền, T.P Thủ Đức, T.P Hồ Chí Minh, Việt Nam
+                       
+                    </p>
+                    <p class="footerp">
+                    <span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x20;&#x20;&#x20;Email&#x3A;&quot;,&quot;translated&quot;&#x3A;&quot;&#x20;&#x20;&#x20;Email&#x3A;&quot;,&quot;original&quot;&#x3A;&quot;&#x20;&#x20;&#x20;Email&#x3A;&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">   Email:</span>                        cskh@cocorolife.vn
+                    </p>
+                    <p class="footerp">
+                    <span data-translate="[&#x7B;&quot;shown&quot;&#x3A;&quot;&#x20;&#x20;&#x20;MST&#x3A;&#x20;&quot;,&quot;translated&quot;&#x3A;&quot;&#x20;&#x20;&#x20;MST&#x3A;&#x20;&quot;,&quot;original&quot;&#x3A;&quot;&#x20;&#x20;&#x20;MST&#x3A;&#x20;&quot;,&quot;location&quot;&#x3A;&quot;Text&quot;,&quot;scope&quot;&#x3A;&quot;themeMagentop&#x5C;&#x2F;mhung&quot;&#x7D;]">   MST: </span>                    0308159258 Do Sở kế hoạch Đầu tư TP.HCM cấp ngày 13/3/2009
+                    </p>
+                    <p>
+                        <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/thongbao.png" alt="">
+                    </p>
+                </div>  
+            </div>
+            <div class="col-3">
+           
+        </div>
+        </div>
+        <hr>
+       
+    </div>
+</footer>
+
+
+<script type="text/x-magento-init">
+{
+    ".contactus": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "contactuss": {
+                    "component": "Magento_Theme/js/contactus",
+                    "template":  "Magento_Theme/contactus"
+                }
+            }
+        }
+    }
+}
+</script>
+<div id="coppyright" class="container coppyright"><small class="copyright">
+    <span>Customized coppyright!</span>
+</small>
+<small data-translate="[{&quot;shown&quot;:&quot;Gi\u00fap ch\u00fang t\u00f4i gi\u1eef cho Magento kh\u1ecfe m\u1ea1nh&quot;,&quot;translated&quot;:&quot;Gi\u00fap ch\u00fang t\u00f4i gi\u1eef cho Magento kh\u1ecfe m\u1ea1nh&quot;,&quot;original&quot;:&quot;Help Us Keep Magento Healthy&quot;,&quot;location&quot;:&quot;Smaller text&quot;},{&quot;shown&quot;:&quot;B&#xE1;o&#x20;c&#xE1;o&#x20;t&#x1EA5;t&#x20;c&#x1EA3;&#x20;c&#xE1;c&#x20;l&#x1ED7;i&quot;,&quot;translated&quot;:&quot;B&#xE1;o&#x20;c&#xE1;o&#x20;t&#x1EA5;t&#x20;c&#x1EA3;&#x20;c&#xE1;c&#x20;l&#x1ED7;i&quot;,&quot;original&quot;:&quot;Report&#x20;All&#x20;Bugs&quot;,&quot;location&quot;:&quot;Smaller text&quot;},{&quot;shown&quot;:&quot;B\u00e1o c\u00e1o t\u1ea5t c\u1ea3 c\u00e1c l\u1ed7i&quot;,&quot;translated&quot;:&quot;B\u00e1o c\u00e1o t\u1ea5t c\u1ea3 c\u00e1c l\u1ed7i&quot;,&quot;original&quot;:&quot;Report All Bugs&quot;,&quot;location&quot;:&quot;Smaller text&quot;}]" class="bugs">
+    <span>Giúp chúng tôi giữ cho Magento khỏe mạnh</span>
+        <a href="http://www.magentocommerce.com/bug-tracking" target="_blank" title="B&#xE1;o&#x20;c&#xE1;o&#x20;t&#x1EA5;t&#x20;c&#x1EA3;&#x20;c&#xE1;c&#x20;l&#x1ED7;i">
+            Báo cáo tất cả các lỗi        </a>
+    <span style="display: inline-block;">
+        <p>
+            <img src="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/images/footer/payoo.png" alt="">
+        </p>
+    </span>
+</small>
+</div></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/hungdao.cmmage.app\/vi\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/hungdao.cmmage.app\/vi\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/hungdao.cmmage.app\/vi\/rest\/vi\/V1\/products-render-info"},"requestConfig":{"syncUrl":"https:\/\/hungdao.cmmage.app\/vi\/catalog\/product\/frontend_action_synchronize\/"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+</div>    <link rel="stylesheet" type="text/css" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/prototype/windows/themes/default.css"/>
+<link rel="stylesheet" type="text/css" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/Magento_Theme/prototype/magento.css"/>
+<link rel="stylesheet" type="text/css" href="https://hungdao.cmmage.app/static/version1698912435/frontend/Magentop/mhung/vi_VN/mage/translate-inline.css"/>
+
+<script id="translate-inline-icon" type="text/x-magento-template">
+    <img src="<%- data.img %>" height="16" width="16" class="translate-edit-icon">
+</script>
+<script id="translate-form-template" type="text/x-magento-template">
+    <form id="<%- data.id %>">
+        <% _.each(data.items, function(item, i) { %>
+            <div class="translate-table-container">
+                <table cellspacing="0" class="table">
+                    <% _.each(item, function(value, index) { %>
+                        <tr>
+                            <th class="label" style="text-transform: capitalize;"><%- index %>:</th>
+                            <td class="value"><%- value %></td>
+                        </tr>
+                    <% }); %>
+                    <tr>
+                        <th class="label">
+                            <label for="perstore_<%- i %>">Store View Specific:</label>
+                        </th>
+                        <td class="value">
+                            <input id="perstore_<%- i %>" name="translate[<%- i %>][perstore]" type="checkbox" value="1"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th class="label">
+                            <label for="custom_<%- i %>">Custom:</label>
+                        </th>
+                        <td class="value">
+                            <input name="translate[<%- i %>][original]" type="hidden" value="<%- item.original %>"/>
+                            <input id="custom_<%- i %>"
+                                   name="translate[<%- i %>][custom]"
+                                   class="input-text"
+                                   value="<%- item.translated %>" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        <% }); %>
+    </form>
+    <%  if (data.message) { %>
+        <p class="a-center accent"><%- data.message %></p>
+    <% } %>
+</script>
+
+<div data-role="translate-dialog"
+     data-mage-init='{"translateInline":{"ajaxUrl":"https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fvi\u002Ftranslation\u002Fajax\u002Findex\u002F"},"loader":{}}'></div>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "editTrigger": {
+                "img": "https\u003A\u002F\u002Fhungdao.cmmage.app\u002Fstatic\u002Fversion1698912435\u002Ffrontend\u002FMagentop\u002Fmhung\u002Fvi_VN\u002FMagento_Theme\u002Ffam_book_open.png",
+                "alwaysShown":true,
+                "singleElement":false
+            },
+            "addClass": {
+                "class": "trnslate-inline-area"
+            }
+        }
+    }
+</script>
+</body>
+</html>

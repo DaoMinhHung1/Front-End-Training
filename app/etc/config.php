@@ -351,6 +351,8 @@ return [
         'Magentop_EventPage' => 1,
         'Magentop_Footer' => 1,
         'Magentop_HelloPage' => 1,
+        'Magentop_LogHtml' => 1,
+        'Magentop_LogRoute' => 1,
         'Mageplaza_Core' => 1,
         'Mageplaza_Multiflatrates' => 1,
         'Mageplaza_Smtp' => 1,

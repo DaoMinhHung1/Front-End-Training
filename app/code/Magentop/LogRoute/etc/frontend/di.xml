@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Framework\Event\Observer">
+        <arguments>
+            <argument name="observerInstances" xsi:type="array">
+                <item name="log_generated_page_html" xsi:type="object">Magentop\LogRoute\Observer\LogRoutes</item>
+            </argument>
+        </arguments>
+    </type>
+</config>

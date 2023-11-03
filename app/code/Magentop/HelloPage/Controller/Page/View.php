@@ -1,32 +1,12 @@
-<?php 
+<?php
 namespace Magentop\HelloPage\Controller\Page;
-class View extends \Magento\Framework\App\Action\Action
+
+use Magento\Framework\App\Action\Action;
+
+class View extends Action
 {
-    /**
-     * @var \Magento\Framework\Controller\Result\JsonFactory
-     */
-    protected $resultJsonFactory;
-    /**
-     * @param \Magento\Framework\App\Action\Context $context
-     * @param \Magento\Framework\Controller\Result\JsonFactory $resultJsonFactory
-     */
-    public function __construct(
-       \Magento\Framework\App\Action\Context $context,
-       \Magento\Framework\Controller\Result\JsonFactory $resultJsonFactory)
-{
-       $this->resultJsonFactory = $resultJsonFactory;
-       parent::__construct($context);
-}
-    /**
-     * View  page action
-     *
-     * @return \Magento\Framework\Controller\ResultInterface
-     */
     public function execute()
     {
-       $result = $this->resultJsonFactory->create();
-       $data = ['message' => 'Hello world!',
-                'name' => 'Đào Minh Hùng'];
-
-return $result->setData($data);
-} }
+        echo 'Hello world! Đào Minh Hùng';
+    }
+}
