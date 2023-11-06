@@ -346,6 +346,7 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Magento_WishlistSampleData' => 1,
+        'Magentop_AdminModule' => 1,
         'Magentop_Breadcrumbs' => 1,
         'Magentop_Checkproblem' => 1,
         'Magentop_EventPage' => 1,

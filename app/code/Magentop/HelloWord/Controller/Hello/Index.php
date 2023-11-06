@@ -22,15 +22,15 @@ class Index extends Action
         $urlRewrite = $this->urlRewriteFactory->create();
         $urlRewrite
             ->setEntityType('custom')
-            ->setRequestPath('magentop/page/view')
-            ->setTargetPath('magentop/hello/index')
+            ->setRequestPath('magentop/hello/index')
+            ->setTargetPath('magentop/page/view')
             ->setRedirectType(0)
             ->setStoreId(1);
         
         try {
             $urlRewrite->save();
             $resultRedirect = $this->resultRedirectFactory->create();
-            $resultRedirect->setPath('magentop/hello/index');
+            $resultRedirect->setPath('magentop/page/view');
             return $resultRedirect;
         } catch (\Exception $e) {
             $this->messageManager->addError(__('Error occurred while creating URL Rewrite.'));
