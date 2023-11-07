@@ -356,6 +356,7 @@ return [
         'Magentop_LogHtml' => 1,
         'Magentop_LogRoute' => 1,
         'Magentop_PluginCatalogProduct' => 1,
+        'Magentop_PluginGetPrice' => 1,
         'Mageplaza_Core' => 1,
         'Mageplaza_Multiflatrates' => 1,
         'Mageplaza_Smtp' => 1,
