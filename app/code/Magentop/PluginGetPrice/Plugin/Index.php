@@ -5,10 +5,11 @@ class Index
 {
     public function afterGetPrice(\Magento\Catalog\Model\Product $product, $result)
     {
-        $newPrice = $result * 1.10;
+        // $newPrice = $result * 1.10;
 
-        echo 'New Price: ' . $newPrice;
+        // echo 'New Price: ' . $newPrice;
         
-        return $newPrice;
+        // return $newPrice;
+        return $result;
     }
 }

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceBlock name="training_custom" remove="true"/>
+        <!-- <move element="training_custom" destination="sidebar.additional" after="-"/> -->
+
+        <referenceContainer name="content">
+            <block class="Magentop\TrainingRender\Block\TrainCustom" name="training_custom" template="Magentop_TrainingRender::custom.phtml">
+                <arguments>
+                    <argument name="background_color" xsi:type="string">lightskyblue</argument>
+                </arguments>
+            </block>
+        </referenceContainer>
+    </body>
+</page>
